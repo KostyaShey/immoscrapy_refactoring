@@ -5,10 +5,11 @@ from fake_useragent import UserAgent
 from datetime import datetime
 from geopy.geocoders import Bing
 import folium
-import pandas as pd
 from tqdm import tqdm
 from dataclasses import dataclass
 from lxml import html
+from itertools import groupby
+from statistics import mean
 
 #preparing the logs
 timestamp = datetime.now()
@@ -18,6 +19,13 @@ log_path_flat_obj = 'logs/flats_{timestamp}.txt'.format(timestamp=timestamp)
 with open(log_path, 'w') as f:
         f.write("\n")
 
+#geolocator setup
+geolocator = Bing(api_key="AvBAPo5JOlFEEXybd-kmWdAsiQD4zVnCZUpxHMFcXuj-4e0Nm854mI7WVHG5Qopp")
+
+#set up user agent to randomize headers
+ua = UserAgent()
+
+#functions for __post__init__ of flat dataclass
 
 def getLatAndLongt(street, distAndIndex):
     try:
@@ -29,7 +37,6 @@ def getLatAndLongt(street, distAndIndex):
         location = geolocator.geocode(street + " " + distAndIndex)
         return location.latitude, location.longitude
     except Exception as e:
-        print("exception while locating an adress:", e)
         return (None, None)
 
 def returnStringAsFloat(string):
@@ -43,6 +50,8 @@ def returnStringAsFloat(string):
         return float(returnSting)
     except:
         return None
+
+#dataclass for the flats
 
 @dataclass
 class Flat:
@@ -62,28 +71,25 @@ class Flat:
         self.rooms = returnStringAsFloat(self.rooms)
         self.sqm = returnStringAsFloat(self.sqm)
 
-
-
-geolocator = Bing(api_key="AvBAPo5JOlFEEXybd-kmWdAsiQD4zVnCZUpxHMFcXuj-4e0Nm854mI7WVHG5Qopp")
-
-
 # Scraping Links from immobilienscout24
 
 source = urllib.request.urlopen('https://www.immobilienscout24.de/Suche/S-T/P-1/Wohnung-Miete/Hamburg/Hamburg').read()
 soup = bs.BeautifulSoup(source, 'lxml')
+
 # finding the number of pages as int
 for option in soup.find_all('option'):
     pages = option.get_text()
 pages = int(pages)
 
+#empty list for all flat links
+linklist = []
+
 #scraping links from each page on immobilienscout
 
 print("\nScraping flats from immoscout\n")
 
-linklist = []
-
-#for num_page in tqdm(range(1, pages + 1)):
-for num_page in tqdm(range(1, 5)):
+for num_page in tqdm(range(1, pages + 1)):
+#for num_page in tqdm(range(1, 5)):
     with open(log_path, 'a') as f:
         f.write("Scraping Page {page} from immobilienscout24\n".format(page=num_page))
     source_immopage = urllib.request.urlopen(
@@ -101,29 +107,28 @@ for num_page in tqdm(range(1, 5)):
 print("\nScraping flats from wg_gesucht\n")
 
 # Scraping Links from wg-gesucht.de
+#using tor for anonimous requests
 
-ua = UserAgent()
 header = {'User-Agent':str(ua.random)}
-
 tr = TorRequest(password='12345qwert!')
 tr.reset_identity()  # Reset Tor
 source = tr.get('https://www.wg-gesucht.de/wohnungen-in-Hamburg.55.2.1.0.html?category=2&city_id=55&rent_type=2&noDeact=1&img=1', headers=header).text
-
 soup_wggesucht = bs.BeautifulSoup(source, 'lxml')
 
 # Scraping the number of pages
+
 for option in soup_wggesucht.find_all("a", {"class": "a-pagination"}):
     pages = option.get_text()
 pages = int(pages)
 
-#scraping links from the pages
-for i in tqdm(range(0, pages+1)):
-#for i in tqdm(range(0, 1)):
+#scraping links from each page 
+
+for i in tqdm(range(1, pages+1)):
+#for i in tqdm(range(1, 2)):
 
     with open(log_path, 'a') as f:
         f.write("Scraping Page {page} from wg-gesucht.de\n".format(page=i))
     
-    ua = UserAgent()
     header = {'User-Agent':str(ua.random)}
     tr = TorRequest(password='12345qwert!')
     tr.reset_identity()
@@ -145,18 +150,15 @@ for i in tqdm(range(0, pages+1)):
 with open(log_path, 'a') as f:
     f.write("There are " + str(len(linklist)) + " links in the list\n\n")
 
-#scraping flat info
+#empty list for flat objects
 
-FLATSSKIPPED = 0
-FLATSERROR = 0
-flats_nostreet_counter = 0
-DEACTIVATED_FLATS = 0
 flatList = []
 
-with open(log_path, 'a') as f:
-    f.write("Flats to scrape: " + str(len(linklist)) + "\n\n")
+#scraping flat info
 
-print("\nScraping the flat information \n")
+print("\nScraping flat information from items in the linkList\n")
+
+#functions for scraping
 
 def getTitle(soup):
     return soup.title.get_text()
@@ -165,18 +167,16 @@ def getStringFromSoup(soup, element, cssClass):
     try:
         return soup.find(element, {"class": cssClass}).get_text()
     except:
-        print("exception while scraping " + element + "class: " + cssClass)
         return None
 
 def getStringFromPath(tree, path):
     try:
         return tree.xpath(path)[0].text_content()
     except:
-        print("exception while scraping " + path + "\ncontent of path: ")
-        print(tree.xpath(path))
         return None
 
-
+with open(log_path_flat_obj, 'w') as f:
+    f.write("\n")
 
 for link in tqdm(linklist):
 
@@ -196,7 +196,6 @@ for link in tqdm(linklist):
         with open(log_path, 'a') as f:
             f.write("Scraping " + link + "\n")
 
-
         flatInfo = Flat(
             fullLink= link,
             title = getTitle(soup),
@@ -215,15 +214,15 @@ for link in tqdm(linklist):
     if "wg-gesucht.de" in link:
 
         # using tor to scrape anonymously
-        ua = UserAgent()
+
         header = {'User-Agent':str(ua.random)}
         tr = TorRequest(password='12345qwert!')
         tr.reset_identity()  # Reset Tor
         source = tr.get(link, headers=header)
         tree = html.fromstring(source.content)
-
+    
         #check if the flat is deactivated
-        """ todo: fix ths shit later
+        """ todo: fix this shit later
         try:
             if getStringFromPath(tree, '//*[@id="main_column"]/div[2]/div/h4') == None:
                 pass
@@ -238,10 +237,9 @@ for link in tqdm(linklist):
 
         with open(log_path, 'a') as f:
             f.write("Scraping " + link + "\n")
-            f.write(str(len(tree.find_class('row'))) + '\n')
 
         #checking content in [@id="main_column"] and setting variable for adjusting the divs in xpath
-        print(len(tree.find_class('row')))
+
         if len(tree.find_class('row')) >= 44:
             x = 0
         if len(tree.find_class('row')) == 43:
@@ -256,7 +254,7 @@ for link in tqdm(linklist):
             street = tree.xpath('//*[@id="main_column"]/div[1]/div/div[{number}]/div[2]/a/text()[1]'.format(number = 11 - x))[0]
         except:
             with open(log_path, 'a') as f:
-                f.write("Skipping " + link + " because xpath is broken")
+                f.write("Skipping " + link + " because xpath is broken\n")
             continue
 
         flatInfo = Flat(
@@ -272,109 +270,49 @@ for link in tqdm(linklist):
 
         flatList.append(flatInfo)
 
-with open(log_path_flat_obj, 'w') as f:
-    for flat in flatList:
-        f.write(flat)
+    with open(log_path_flat_obj, 'a') as f:
+        f.write(str(flatInfo) + "\n")
+        f.write(str(flatInfo.lat) + "\n")
+        f.write(str(flatInfo.longt) + "\n")
         f.write("\n")
 
-with open(log_path, 'a') as f:
-    f.write("\n\n\n")
-    f.write("Flats without a street: " + str(flats_nostreet_counter) + "\n")
-    f.write("Skipped because there was an error: " + str(FLATSERROR) + "\n")
-    f.write("Deactivated flats: " + str(DEACTIVATED_FLATS) + "\n")
-    f.write("New list contains " + str(len(flatList)) + " flats\n")
-    f.write("\n\n\n")
-
-FLATSERROR = 0
-MISSINGCORD = 0
-
 #changes the color of the icon
-def colorpicker(flat):
+def colorpicker(flat, priceDict):
 
-    if df.loc[flat[0]]["Price"] > mean_dist.loc[df.loc[flat[0]]["Rooms"]]["Price"]*1.2:
+    if flat.price > priceDict[flat.rooms] * 1.2:
         return "red"
-    if df.loc[flat[0]]["Price"] < mean_dist.loc[df.loc[flat[0]]["Rooms"]]["Price"]*0.8:
+    if flat.price < priceDict[flat.rooms] * 0.8:
         return 'green'
     else:
         return 'gray'
 
-#itterate to turn price and additional cost in float and sepatate district and index
+#calculate mean price for flats grouped by room number
 
+meanPricePerRoom = {}
 
-for flat in flatList:
+print(len(flatList))
 
-    if "immobilienscout24" in flat.fullLink:
-        flat.distAndIndex = flat.distAndIndex.split(", ")
-        for i in flat.distAndIndex:
-            print(i)
-        if len(flat.distAndIndex) < 2:
-            flat.City = flat.distAndIndex[0].split(" ")[0]
-            flat.District = flat.distAndIndex[0].split(" ")[1]
-            continue
-        else:
-            flat.City = flat.distAndIndex[0]
-            flat.District = flat.distAndIndex[1]
-    #print(flat)
-    if "wg-gesucht.de" in flat.fullLink:
-        flat.distAndIndex = flat.distAndIndex.split(" ")
-        print("wggesucht: " + flat.distAndIndex)
-        flat.append(stringtoseparate[0] + " " + stringtoseparate[1])
-        if len(stringtoseparate) > 2:
-            flat.append(stringtoseparate[-2] + " " + stringtoseparate[-1])
-            continue
-        flat.append(stringtoseparate[2]) 
+for key, group in groupby(flatList, lambda x: x.rooms):
+    print(key)
+    meanRooms = mean([x.price for x in group])
+    meanPricePerRoom[key] = meanRooms
 
-"""
-save for later:
-hasattr(foo, 'bar')
-would return True if foo has an attribute named bar, otherwise False and
-getattr(foo, 'bar', 'quux')
-would return foo.bar if it exists, otherwise defaults to quux.
-"""
+print(meanPricePerRoom)
 
-
-df = pd.DataFrame(flat_list, columns =['Link', 'Name', 'Price', 'Additional costs', 'Rooms', 'Size', 'Street and Number', 'lat', 'long', 'City', 'District'])
-
-mean_dist = df.groupby('Rooms') \
-.agg({'Rooms':'size', 'Price':'mean'}) \
-.rename(columns={'Rooms':'Rooms count','sent':'mean Price'})\
-.reset_index()
-
-decimals = 2    
-mean_dist['Price'] = mean_dist['Price'].apply(lambda x: round(x, decimals))
-
-df.set_index("Link", inplace=True)
-mean_dist.set_index("Rooms", inplace=True)
+#building a map
 
 map = folium.Map(location=[53.57532,10.01534], zoom_start = 12)
 
-for flat in flat_list:
+for flat in flatList:
 
-    try:
-        popuptext = "<b>" + flat[1] + "</b></br>"\
-         + str(flat[2]) + " € (avg. " + str(mean_dist.loc[df.loc[flat[0]]["District"]]["Price"]) + " €) </br>"\
-          + flat[4] + " Zimmer, " + flat[5] + "</br>" + '<a href="{url}" target="_blank">'.format(url = flat[0]) + flat[0] + "</a>"
-    except Exception as e:
-        popuptext = "<b>" + flat[1] + "</b></br>"\
-         + str(flat[2]) + " €</br>"\
-          + flat[4] + " Zimmer, " + flat[5] + "</br>" + '<a href="{url}" target="_blank">'.format(url = flat[0]) + flat[0] + "</a>"
-        print("general exception while creating a popup: ", e)
+    popuptext = "<b>" + flat.title + "</b></br>"\
+        + str(flat.price) + " € (avg. " + str(meanPricePerRoom[flat.rooms]) + " €) </br>"\
+            + str(flat.rooms) + " Zimmer, " + str(flat.sqm) + " m²</br>" + '<a href="{url}" target="_blank">'.format(url = flat.fullLink) + flat.fullLink + "</a>"
 
-    try:
+    if flat.longt == None:
+        print("coordinates missing. skipping the marker.")
+        continue
 
-        if len(str(flat[-2])) < 1:
-            print("coordinates missing. skipping the marker.")
-            MISSINGCORD += 1
-            continue
-        folium.Marker([flat[-4], flat[-3]], popup=popuptext, icon=folium.Icon(color=colorpicker(flat))).add_to(map)
-
-    except Exception as e:
-        FLATSERROR += 1
-        print("general exception while placing a marker:", e)
-
-with open(log_path, 'a') as f:
-    f.write("\n\n\n")
-    f.write("Failed to place " + str(FLATSERROR) + " from " + str(len(flat_list)) + " flats on the map\n")
-    f.write("Flats with missing cords: " + str(MISSINGCORD))
+    folium.Marker([flat.lat, flat.longt], popup=popuptext, icon=folium.Icon(color=colorpicker(flat, meanPricePerRoom))).add_to(map)
 
 map.save("map1.html")

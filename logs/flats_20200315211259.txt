@@ -1,0 +1,870 @@
+
+Flat(fullLink='https://www.immobilienscout24.de/expose/115270530', title='Neues Zuhause gesucht? Bei Anmietung bis zum 01.04.2020 eine Grundmiete frei!', price=1080.0, additionalCost=167.0, rooms=3.0, sqm=90.0, street=' Nagelshof 19a,', distAndIndex='22559 Hamburg, Rissen')
+53.58109
+9.75239
+
+Flat(fullLink='https://www.immobilienscout24.de/expose/105014772', title='***Wunderschöne 2-Zimmerwohnung ***', price=940.66, additionalCost=163.0, rooms=2.0, sqm=56.82, street=' Warnstedtstraße 59 P,', distAndIndex='22525 Hamburg, Stellingen')
+53.586688
+9.928705
+
+Flat(fullLink='https://www.immobilienscout24.de/expose/114731612', title='***Herrliche 3-Zimmerwohnung***', price=1313.16, additionalCost=228.0, rooms=3.0, sqm=85.67, street=' Warnstedtstraße 59 U,', distAndIndex='22525 Hamburg, Stellingen')
+53.586688
+9.928705
+
+Flat(fullLink='https://www.immobilienscout24.de/expose/101102339', title='***Hervorragende 3,5-Zimmerwohnung***', price=1251.0, additionalCost=236.0, rooms=3.5, sqm=92.18, street=' Warnstedtstraße 59 R,', distAndIndex='22525 Hamburg, Stellingen')
+53.586688
+9.928705
+
+Flat(fullLink='https://www.immobilienscout24.de/expose/116031561', title='***Gemütliche 3-Zimmerwohnung***', price=1118.93, additionalCost=222.0, rooms=2.5, sqm=81.53, street=' Warnstedtstraße 59 V,', distAndIndex='22525 Hamburg, Stellingen')
+53.586688
+9.928705
+
+Flat(fullLink='https://www.immobilienscout24.de/expose/115314060', title='***Fabelhafte 2-Zimmerwohnung***', price=1299.0, additionalCost=138.66, rooms=2.0, sqm=69.33, street=' Eva-Rühmkorf-Straße 10,', distAndIndex='22765 Hamburg, Altona-Nord')
+53.56151
+9.93895
+
+Flat(fullLink='https://www.immobilienscout24.de/expose/108982550', title='2-Zimmer-Neubauwohnung mit EBK, Aufzug, TG, Südterrasse und Grundriss', price=830.0, additionalCost=150.0, rooms=2.0, sqm=78.32, street=' Baumpieperweg 2,', distAndIndex='21149 Neugraben-Fischbek, Hamburg')
+53.46685
+9.81068
+
+Flat(fullLink='https://www.immobilienscout24.de/expose/116455717', title='100m² Wohnung im Herzen Altonas', price=1680.9, additionalCost=210.0, rooms=4.0, sqm=100.4, street=' Jessenstraße 19,', distAndIndex='22767 Hamburg, Altona-Altstadt')
+53.55031
+9.9436
+
+Flat(fullLink='https://www.immobilienscout24.de/expose/115598743', title='Helle, loftartige Penthousewohnung mit Fahrstuhl und Blick bis zu den Elbkränen', price=2270.0, additionalCost=None, rooms=3.0, sqm=113.5, street=' Gottorpstrasse 37,', distAndIndex='22605 Hamburg, Othmarschen')
+53.558988
+9.892218
+
+Flat(fullLink='https://www.immobilienscout24.de/expose/115599067', title='Helle 3 bis 4-Zimmer Wohnung mit grossem Südbalkon und Fahrstuhl in Othmarschen, Hamburg', price=2617.6, additionalCost=None, rooms=4.0, sqm=130.88, street=' Gottorpstraße 37,', distAndIndex='22605 Hamburg, Othmarschen')
+53.55896
+9.89222
+
+Flat(fullLink='https://www.immobilienscout24.de/expose/114219309', title='3 Zimmer Wohnung in Hamburg-Harvestehude', price=1287.5, additionalCost=200.0, rooms=3.0, sqm=93.23, street=' Hochallee 18,', distAndIndex='20149 Hamburg, Harvestehude')
+53.57399
+9.98652
+
+Flat(fullLink='https://www.immobilienscout24.de/expose/116490260', title="Living in Hamburg's oldest village", price=840.0, additionalCost=50.0, rooms=1.0, sqm=21.0, street=' Klosterallee 67,', distAndIndex='20144 Hamburg, Harvestehude')
+53.58041
+9.97944
+
+Flat(fullLink='https://www.immobilienscout24.de/expose/115298964', title='2-Raumwohnung + Balkon und EBK!', price=799.0, additionalCost=195.0, rooms=2.0, sqm=65.07, street=' Bargteheider Straße 134,', distAndIndex='22143 Hamburg, Rahlstedt')
+53.60941
+10.1519
+
+Flat(fullLink='https://www.immobilienscout24.de/expose/107884355', title='Komplett möbliertes, modernes Studentenapartment im Herzen von Hamburg-Wandsbek (18 m²)', price=709.0, additionalCost=None, rooms=1.0, sqm=18.0, street=' Hammer Straße 10,', distAndIndex='22041 Hamburg, Marienthal')
+53.5698039
+10.0610462
+
+Flat(fullLink='https://www.immobilienscout24.de/expose/116366406', title='+++ NEU + Hochwertiger Neubau nahe Falkenstein im Rissen Park', price=1305.0, additionalCost=235.0, rooms=3.0, sqm=87.01, street=' Storchenheimweg 30,', distAndIndex='22559 Hamburg, Rissen')
+53.57703
+9.77195
+
+Flat(fullLink='https://www.immobilienscout24.de/expose/114647086', title='TOP PENTHOUSE im Binnenhafen - Neubau!', price=2330.0, additionalCost=260.0, rooms=3.0, sqm=145.76, street=' Harburger Schloßstraße 13b,', distAndIndex='21079 Hamburg, Harburg')
+53.46481
+9.98281
+
+Flat(fullLink='https://www.immobilienscout24.de/expose/111087113', title='Saniertes und möbliertes 1-Zimmerappartement in Winterhude (Nebenkostenpauschale inkl. WLAN)', price=850.0, additionalCost=150.0, rooms=1.0, sqm=27.0, street=' Dorotheenstraße 80,', distAndIndex='22301 Hamburg, Winterhude, Hamburg')
+53.58477
+10.00735
+
+Flat(fullLink='https://www.immobilienscout24.de/expose/108973901', title='Voll möblierte 3-Zimmerwohnung mit Terrasse und Blick ins Grüne in Othmarschen (inkl. WLAN)', price=1950.0, additionalCost=400.0, rooms=3.0, sqm=93.0, street=' Reventlowstraße 30,', distAndIndex='22605 Othmarschen, Hamburg')
+53.55578
+9.89096
+
+Flat(fullLink='https://www.immobilienscout24.de/expose/116647795', title='City-Apartment in Eppendorf! Freundlich + renoviert mit Einbauküche, kl. Balkon, Wannenbad + Aufzug', price=850.0, additionalCost=200.0, rooms=1.0, sqm=52.0, street=' Robert-Koch-Straße 40,', distAndIndex='20249 Hamburg, Eppendorf')
+53.59013
+9.98629
+
+Flat(fullLink='https://www.immobilienscout24.de/expose/114104558', title='Vollmöbliertes Single Studio für Studenten | ab 01.09.2020', price=593.0, additionalCost=147.0, rooms=1.0, sqm=21.22, street=' Kieler Straße 3,', distAndIndex='22769 Hamburg, Altona-Nord')
+53.56638
+9.9447
+
+Flat(fullLink='https://www.immobilienscout24.de/expose/114006571', title='Vollmöbliertes Single Studio für Studenten | Erstbezug ab 01.04.2020', price=593.0, additionalCost=147.0, rooms=1.0, sqm=21.22, street=' Kieler Straße 3,', distAndIndex='22769 Hamburg, Altona-Nord')
+53.56638
+9.9447
+
+Flat(fullLink='https://www.immobilienscout24.de/expose/115613895', title='Penthouse Wohnung am Eichtalpark', price=1300.0, additionalCost=280.0, rooms=3.0, sqm=90.0, street=' Hundtstraße 1,', distAndIndex='22047 Hamburg, Wandsbek')
+53.58242
+10.09503
+
+Flat(fullLink='https://www.immobilienscout24.de/expose/116656080', title='nur für Studenten 1 Zi. Neubau', price=400.0, additionalCost=110.0, rooms=1.0, sqm=18.0, street=' Basselweg 3,', distAndIndex='22527 Hamburg, Stellingen')
+53.58755
+9.93261
+
+Flat(fullLink='https://www.immobilienscout24.de/expose/87740563', title='Exklusive Stadtresidenz direkt an der Alster', price=3162.0, additionalCost=855.0, rooms=3.0, sqm=186.0, street=' Harvestehuder Weg 36,', distAndIndex='20149 Hamburg, Harvestehude')
+53.57637
+9.99857
+
+Flat(fullLink='https://www.immobilienscout24.de/expose/116643820', title='Einziehen und wohlfühlen! Neuwertige 3-Zimmer-Wohnung in Lohbrügge!', price=844.56, additionalCost=165.0, rooms=3.0, sqm=73.44, street=' Am Hirtenland 17,', distAndIndex='21031 Hamburg, Lohbrügge')
+53.51283
+10.19154
+
+Flat(fullLink='https://www.immobilienscout24.de/expose/116422765', title='Ruhige, möblierte Dachwohnung in ruhiger Gartenlage, Zentrale Lage - Nähe S-Bahn Langenfelde', price=600.0, additionalCost=80.0, rooms=1.0, sqm=26.0, street=' Wolffstraße 8a,', distAndIndex='22525 Hamburg, Stellingen')
+53.57882
+9.93438
+
+Flat(fullLink='https://www.immobilienscout24.de/expose/115702996', title='++Schöne 3-Zimmerwohnung mit EBK und Loggia++', price=1035.71, additionalCost=257.0, rooms=3.0, sqm=85.79, street=' Bargteheider Straße 134b,', distAndIndex='22143 Hamburg, Rahlstedt')
+53.60966
+10.15216
+
+Flat(fullLink='https://www.immobilienscout24.de/expose/115696018', title='Im Blankeneser Treppenviertel! 4-Zimmer mit Balkon und wunderschönen Blick', price=1744.0, additionalCost=346.0, rooms=4.0, sqm=109.0, street=None, distAndIndex='22587 Hamburg, Blankenese')
+None
+None
+
+Flat(fullLink='https://www.immobilienscout24.de/expose/115695873', title='Elegante Wohnung mit unverbaubarem Wasserblick im Herzen der HafenCity', price=2370.18, additionalCost=410.58, rooms=3.0, sqm=117.31, street=' Osakaallee 6,', distAndIndex='20457 Hamburg, HafenCity, Hamburg')
+53.54313
+9.99816
+
+Flat(fullLink='https://www.immobilienscout24.de/expose/115695683', title='Exklusive Wohnung mit privater Dachterrasse und spektakulären Weitblicken', price=2997.05, additionalCost=650.6, rooms=3.0, sqm=164.71, street=None, distAndIndex='20457 Hamburg, HafenCity, Hamburg')
+None
+None
+
+Flat(fullLink='https://www.immobilienscout24.de/expose/115695633', title='Sensationelle 2-Zimmer-Wohnung mit Blick auf den Magdeburger Hafen', price=2146.56, additionalCost=400.96, rooms=2.0, sqm=114.56, street=' Osakaallee 2,', distAndIndex='20457 Hamburg, HafenCity, Hamburg')
+53.54376
+9.99772
+
+Flat(fullLink='https://www.immobilienscout24.de/expose/115332312', title='Charmante 3-Zimmer-Wohnung mit Blick auf den Magdeburger Hafen', price=1800.82, additionalCost=362.92, rooms=3.0, sqm=103.69, street=' Osakaallee 8,', distAndIndex='20457 Hamburg, HafenCity, Hamburg')
+53.54288
+9.99828
+
+Flat(fullLink='https://www.immobilienscout24.de/expose/109287016', title='Zentral gelegene 3-Zimmerwohnung in der Hafencity', price=1992.95, additionalCost=327.25, rooms=3.0, sqm=93.5, street=' Singapurstraße 4,', distAndIndex='20457 Hamburg, HafenCity, Hamburg')
+53.54304
+9.9966
+
+Flat(fullLink='https://www.immobilienscout24.de/expose/107627058', title='Traumhafte Ausblicke auf die Innenstadt und die HafenCity', price=1918.67, additionalCost=424.97, rooms=3.0, sqm=121.42, street=' Osakaallee 2,', distAndIndex='20457 Hamburg, HafenCity, Hamburg')
+53.54376
+9.99772
+
+Flat(fullLink='https://www.immobilienscout24.de/expose/97270814', title='Wohnen mit traumhaften Ausblicken zum Magdeburger Hafen', price=2264.55, additionalCost=458.85, rooms=3.0, sqm=131.1, street=' Osakaallee 4,', distAndIndex='20457 Hamburg, HafenCity, Hamburg')
+53.5434
+9.99778
+
+Flat(fullLink='https://www.immobilienscout24.de/expose/114531512', title='Erstbezug: Vollmöbliertes Single Apartment inkl. Wlan', price=579.0, additionalCost=157.0, rooms=1.0, sqm=21.22, street=' Kieler Straße 3,', distAndIndex='22769 Hamburg, Altona-Nord')
+53.56638
+9.9447
+
+Flat(fullLink='https://www.immobilienscout24.de/expose/115306848', title='schöne 1 Zi. Whg. nur für Studenten', price=515.0, additionalCost=110.0, rooms=1.0, sqm=24.0, street=' Basselweg 3,', distAndIndex='22527 Hamburg, Stellingen')
+53.58755
+9.93261
+
+Flat(fullLink='https://www.immobilienscout24.de/expose/115923706', title='Zwischen Stadtpark und Alster - großzügiger Altbau mit Balkon, Holzdielen, hohe Decke - Bauhausstil', price=1875.0, additionalCost=340.0, rooms=5.5, sqm=138.44, street=' Dorotheenstrasse 123,', distAndIndex='22299 Hamburg, Winterhude')
+53.588615
+10.003748
+
+Flat(fullLink='https://www.immobilienscout24.de/expose/114982345', title='++ 2 BÄDER ++ EINBAUKÜCHE ++ BALKON ++ ERSTBEZUG ++', price=1595.0, additionalCost=153.0, rooms=3.0, sqm=99.46, street=None, distAndIndex='22391 Hamburg, Wellingsbüttel')
+None
+None
+
+Flat(fullLink='https://www.immobilienscout24.de/expose/115521119', title='!!! SCHICKE 2 Zimmer NEUBAU-Wohnung !!!', price=955.0, additionalCost=118.0, rooms=2.0, sqm=69.44, street=None, distAndIndex='22391 Hamburg, Wellingsbüttel')
+None
+None
+
+Flat(fullLink='https://www.immobilienscout24.de/expose/115521071', title='Geräumige 2 Zimmer Wohnung !!! Erstbezug !!!', price=898.0, additionalCost=111.0, rooms=2.0, sqm=64.77, street=None, distAndIndex='22391 Hamburg, Wellingsbüttel')
+None
+None
+
+Flat(fullLink='https://www.immobilienscout24.de/expose/114982333', title='Großzügige 3-Zimmer Wohnung mit 2 Bädern und 2 Ebenen', price=1520.0, additionalCost=146.0, rooms=3.0, sqm=94.76, street=None, distAndIndex='22391 Hamburg, Wellingsbüttel')
+None
+None
+
+Flat(fullLink='https://www.immobilienscout24.de/expose/115307511', title='1Zi.möbliert direkt mit gr.Garten Süd-West an Alster', price=530.0, additionalCost=190.0, rooms=1.0, sqm=21.0, street=' Herbert-Weichmann-Strasse 35,,', distAndIndex='22085 Hamburg, Uhlenhorst')
+53.57254
+10.01291
+
+Flat(fullLink='https://www.immobilienscout24.de/expose/115573908', title='CITY-DESIGN - vollständig möblierte 4-Zimmer-Komfort-Wohnung mit Balkon', price=1895.0, additionalCost=495.0, rooms=4.0, sqm=102.0, street=None, distAndIndex='22089 Hamburg, Hamm-Nord')
+None
+None
+
+Flat(fullLink='https://www.immobilienscout24.de/expose/115675231', title='Traumschöne Wohnung nur für Studierende', price=1600.0, additionalCost=110.0, rooms=4.0, sqm=110.0, street=' Lokstedter Steindamm 3,', distAndIndex='22529 Hamburg, Lokstedt')
+53.59876
+9.96547
+
+Flat(fullLink='https://www.immobilienscout24.de/expose/78195176', title='2 Zi. -Wohnung in einer Jugendstilvilla in HH-Stellingen nurl für Studenten-WG geeignet', price=735.0, additionalCost=220.0, rooms=2.0, sqm=42.0, street=' Wördemannsweg 7,', distAndIndex='22527 Hamburg, Stellingen')
+53.597757
+9.932518
+
+Flat(fullLink='https://www.immobilienscout24.de/expose/115919552', title='Stilvoll möblierte Altbauwohnung am Hayns Park', price=2300.0, additionalCost=300.0, rooms=4.0, sqm=108.0, street=None, distAndIndex='20251 Hamburg, Eppendorf')
+None
+None
+
+Flat(fullLink='https://www.immobilienscout24.de/expose/116551937', title='Hochwertiges Wohnen in Ottensen', price=2550.0, additionalCost=400.0, rooms=3.0, sqm=147.0, street=None, distAndIndex='22765 Hamburg, Ottensen')
+None
+None
+
+Flat(fullLink='https://www.immobilienscout24.de/expose/106034073', title='Neuwertige 2-Zimmer-Wohnung am Alsterdorfer Markt', price=755.0, additionalCost=108.0, rooms=2.0, sqm=54.0, street=' Paul-Stritter-Weg 2,', distAndIndex='22297 Hamburg, Alsterdorf')
+53.61102
+10.02419
+
+Flat(fullLink='https://www.immobilienscout24.de/expose/115508423', title='Moderne 3-Zimmer-Wohnung in Poppenbüttel', price=1400.0, additionalCost=215.0, rooms=3.0, sqm=99.0, street=None, distAndIndex='22399 Hamburg, Poppenbüttel')
+None
+None
+
+Flat(fullLink='https://www.immobilienscout24.de/expose/115028063', title='Luxuriöse Wohnung in der Elbphilharmonie', price=6000.0, additionalCost=800.0, rooms=2.0, sqm=160.0, street=None, distAndIndex='20457 Hamburg, HafenCity')
+None
+None
+
+Flat(fullLink='https://www.immobilienscout24.de/expose/116268941', title='Von Privat an der Elbchaussee: Traumhafte Elbblickwohnung mit Südterrasse und Garten', price=4150.0, additionalCost=450.0, rooms=5.0, sqm=202.0, street=' Elbchaussee 409,', distAndIndex='22609 Hamburg, Nienstedten')
+53.55092
+9.84232
+
+Flat(fullLink='https://www.immobilienscout24.de/expose/116067489', title='Luxus-Sanierte 3-Zimmer-Altbau-Wohnung mit 2 Balkonen, EBK in Hoheluft-Ost', price=1600.0, additionalCost=180.0, rooms=3.0, sqm=88.0, street=None, distAndIndex='20251 Hamburg, Hoheluft-Ost')
+None
+None
+
+Flat(fullLink='https://www.immobilienscout24.de/expose/115923203', title='Ein Unikat im Alstertal', price=2000.0, additionalCost=250.0, rooms=3.0, sqm=119.0, street=None, distAndIndex='22299 hamburg, Hummelsbüttel')
+None
+None
+
+Flat(fullLink='https://www.immobilienscout24.de/expose/83056660', title='Familienfreundliche 4-Zimmerwohnung/ family-friendly 4-room apartment in HH-Othmarschen', price=1775.0, additionalCost=300.0, rooms=4.0, sqm=106.0, street=' Jürgen-Töpfer-Straße 47,', distAndIndex='22763 Hamburg-Othmarschen, Hamburg')
+53.55849
+9.90351
+
+Flat(fullLink='https://www.immobilienscout24.de/expose/115579833', title='Familienfreundliche 4-Zimmer-Erdgeschosswohnung im Neubau mit Terrasse und Vorgarten, Mitte Altona', price=1880.0, additionalCost=370.0, rooms=4.0, sqm=102.6, street=' An der Kleiderkasse 5,', distAndIndex='22765 Hamburg, Altona-Nord')
+53.56023
+9.93809
+
+Flat(fullLink='https://www.immobilienscout24.de/expose/115808431', title='Othmarschen, ruhige Wohnlage am Reemtsma-Park in einer 4 Einheiten Erstbezug', price=2280.0, additionalCost=270.0, rooms=3.0, sqm=133.3, street=' Kreetkamp 15,', distAndIndex='22605 Hamburg, Othmarschen')
+53.54998
+9.87739
+
+Flat(fullLink='https://www.immobilienscout24.de/expose/116330031', title='Moderne, luxuriöse Neubauwohnung, Fontenay 200 Meter von der Alster', price=2950.0, additionalCost=250.0, rooms=2.0, sqm=82.0, street=' Fontenay 1a,', distAndIndex='20354 Hamburg, Rotherbaum')
+53.56498
+9.99596
+
+Flat(fullLink='https://www.immobilienscout24.de/expose/115785649', title='„Sehr schöne möblierte Jugendstilwohnung mit Balkon im Herzen von Winterhude“', price=1050.0, additionalCost=62.63, rooms=2.0, sqm=49.0, street=' Semperstraße 22,', distAndIndex='22303 Hamburg, Winterhude')
+53.5853
+10.01472
+
+Flat(fullLink='https://www.immobilienscout24.de/expose/115652396', title='Exklusive 2-Zimmer-Altbau-Wohnung mit Balkon und EBK in Harvestehude, Hamburg', price=1450.0, additionalCost=205.0, rooms=2.0, sqm=60.0, street=' Isestrasse 74,', distAndIndex='20149 Hamburg, Harvestehude')
+53.58335
+9.985769
+
+Flat(fullLink='https://www.immobilienscout24.de/expose/114414941', title='Moderne 3-Zimmer-Neubau-Wohnung in Hamburg-Rahlstedt', price=1185.0, additionalCost=340.0, rooms=3.0, sqm=84.77, street=None, distAndIndex='22147 Hamburg, Rahlstedt')
+None
+None
+
+Flat(fullLink='https://www.immobilienscout24.de/expose/72356863', title='Schöne, hochwertig renovierte 3-Zimmer Wohnung mit überdachtem Balkon in guter und ruhiger Wohnlage', price=1200.0, additionalCost=112.0, rooms=3.0, sqm=110.0, street=' Peter-Lurenz-Weg 23,', distAndIndex='21077 Hamburg, Eißendorf')
+53.44563
+9.9377
+
+Flat(fullLink='https://www.immobilienscout24.de/expose/116142986', title='Schöne, geräumige zwei Zimmer Wohnung in Hamburg, Billstedt', price=1100.0, additionalCost=300.0, rooms=2.0, sqm=65.0, street=' Schiffbeker Höhe 21,', distAndIndex='22119 Hamburg, Billstedt')
+53.54672
+10.11097
+
+Flat(fullLink='https://www.immobilienscout24.de/expose/116362411', title='ERSTBEZUG ****NEUBAU *** 3 Zimmer Wohnung***MAISIONETTE ***KLEINE ANLAGE', price=989.0, additionalCost=156.6, rooms=3.0, sqm=79.0, street=' Neusurenland 132,', distAndIndex='22159 Hamburg, Farmsen-Berne')
+53.61621
+10.11762
+
+Flat(fullLink='https://www.immobilienscout24.de/expose/116296337', title='ERSTBEZUG ****NEUBAU *** 1,5 Zimmer Wohnung***MAISIONETTE ***KLEINE ANLAGE', price=649.0, additionalCost=156.6, rooms=1.5, sqm=54.0, street=' Neusurenland 132,', distAndIndex='22159 Hamburg, Farmsen-Berne')
+53.61621
+10.11762
+
+Flat(fullLink='https://www.immobilienscout24.de/expose/74040407', title='Exklusive 2-Zimmer Wohnung ("barrierefrei"), Garten (Courtagefrei)', price=910.0, additionalCost=125.0, rooms=2.0, sqm=65.0, street=' Gilcherweg 49b,', distAndIndex='22393 Hamburg, Sasel')
+53.6461
+10.11116
+
+Flat(fullLink='https://www.immobilienscout24.de/expose/115403600', title='Sonnige moderne 3-Zimmer-Wohnung in Jenfeld, mit Balkon, exklusiv', price=1199.0, additionalCost=313.0, rooms=3.0, sqm=71.0, street=' Kühnbachring 63 a,', distAndIndex='22045 Hamburg, Tonndorf')
+53.58152
+10.12946
+
+Flat(fullLink='https://www.immobilienscout24.de/expose/116475109', title='Schicke 2-Zimmer-Wohnung in Alsternähe', price=780.0, additionalCost=45.0, rooms=2.0, sqm=64.97, street=' Ackermannstraße 31,', distAndIndex='22087 Hamburg, Hohenfelde')
+53.56199
+10.0183
+
+Flat(fullLink='https://www.immobilienscout24.de/expose/115634841', title='Besichtigung am Freitag, den 13.03.2020 um 16:30 Uhr - 2 Zimmer Wohnung in Hamburg - Ottensen', price=434.68, additionalCost=None, rooms=2.0, sqm=53.4, street=' Behringstraße 93c,', distAndIndex='22763 Hamburg, Ottensen')
+53.55375
+9.91076
+
+Flat(fullLink='https://www.immobilienscout24.de/expose/116207443', title='Erstbezug, umfassend modernisiert, Einbauküche', price=1300.0, additionalCost=80.0, rooms=3.0, sqm=66.9, street=' Marienthaler Straße 148,', distAndIndex='20535 Hamburg, Hamm-Nord')
+53.56421
+10.05745
+
+Flat(fullLink='https://www.immobilienscout24.de/expose/115194175', title='++TOP-Wohnung mit EBK und Terrasse++', price=1019.0, additionalCost=267.0, rooms=3.0, sqm=89.14, street=' Bargteheider Straße 134a,', distAndIndex='22143 Hamburg, Rahlstedt')
+53.60956
+10.15203
+
+Flat(fullLink='https://www.immobilienscout24.de/expose/115194173', title='2-Raumwohnung + Balkon und EBK!', price=849.0, additionalCost=195.0, rooms=2.0, sqm=65.07, street=' Bargteheider Straße 134,', distAndIndex='22143 Hamburg, Rahlstedt')
+53.60941
+10.1519
+
+Flat(fullLink='https://www.immobilienscout24.de/expose/116235276', title='Möblierte 2-Zimmer-Wohnung mit Balkon und Tiefgaragenstellplatz!', price=1300.0, additionalCost=120.0, rooms=2.0, sqm=60.0, street=None, distAndIndex='22399 Hamburg, Poppenbüttel')
+None
+None
+
+Flat(fullLink='https://www.immobilienscout24.de/expose/116533576', title='LUXURIÖSE VILLAWOHNUNG NÄHE ALSTERUFER', price=1360.0, additionalCost=100.0, rooms=2.0, sqm=55.0, street=None, distAndIndex='20148 Hamburg Harvestehude, Rotherbaum')
+None
+None
+
+Flat(fullLink='https://www.immobilienscout24.de/expose/116412655', title='LICHTDURCHFLUTETER TRAUM MIT TERRASSE', price=1330.0, additionalCost=320.0, rooms=2.0, sqm=81.0, street=None, distAndIndex='22609 Hamburg Osdorf, Hamburg')
+None
+None
+
+Flat(fullLink='https://www.immobilienscout24.de/expose/116099877', title='Exklusive 3-Zi-Penthaus-Wohnung: 2.OG - 112qm - Süd-/Westbalkon mit Abendsonne (von Privat)', price=1350.0, additionalCost=330.0, rooms=3.0, sqm=112.0, street=' Rodigallee 78,', distAndIndex='22043 Hamburg, Marienthal')
+53.57006
+10.10353
+
+Flat(fullLink='https://www.immobilienscout24.de/expose/114996175', title='Erstbezug nach Sanierung. In dekorativem Altbau. Mitten in Eppendorf.', price=1190.0, additionalCost=80.0, rooms=2.0, sqm=51.29, street=' Erikastraße 45,', distAndIndex='20251 Hamburg, Eppendorf')
+53.5932
+9.98706
+
+Flat(fullLink='https://www.immobilienscout24.de/expose/111663034', title='Attraktive 1-Zimmer-Wohnung mit Einbauküche', price=417.1, additionalCost=None, rooms=1.0, sqm=39.0, street=' Sternstraße 121,', distAndIndex='20357 Hamburg, Sternschanze')
+53.56195
+9.96768
+
+Flat(fullLink='https://www.immobilienscout24.de/expose/115692410', title='Wohnqualität im "PARKSIDE LIVING" in der Flurstraße 219', price=1110.0, additionalCost=250.0, rooms=2.0, sqm=69.43, street=' Flurstraße 219,', distAndIndex='22549 Hamburg, Bahrenfeld')
+53.5737
+9.86511
+
+Flat(fullLink='https://www.immobilienscout24.de/expose/115289362', title='Eine kleine und freundliche Wohnung', price=451.77, additionalCost=50.0, rooms=2.0, sqm=41.96, street=' Alaskaweg 9,', distAndIndex='22145 Hamburg, Rahlstedt')
+53.62722
+10.15145
+
+Flat(fullLink='https://www.immobilienscout24.de/expose/116618011', title='Kochen für die Familie? In neuem Umfeld', price=613.95, additionalCost=139.0, rooms=3.0, sqm=71.39, street=' Kanadaweg 17,', distAndIndex='22145 Hamburg, Rahlstedt')
+53.62646
+10.15293
+
+Flat(fullLink='https://www.immobilienscout24.de/expose/116617061', title='Komfortwohnung mit gutem Ausblick', price=749.6, additionalCost=140.0, rooms=3.0, sqm=71.39, street=' Alaskaweg 19,', distAndIndex='22145 Hamburg, Rahlstedt')
+53.62617
+10.15228
+
+Flat(fullLink='https://www.immobilienscout24.de/expose/116616333', title='Sanierte Wohnung mit Komfort', price=597.03, additionalCost=90.0, rooms=2.0, sqm=56.86, street=' Alaskaweg 19,', distAndIndex='22145 Hamburg, Rahlstedt')
+53.62617
+10.15228
+
+Flat(fullLink='https://www.immobilienscout24.de/expose/116451205', title='großzügige 2 Zimmer Wohnung in Barmbek', price=1133.99, additionalCost=146.48, rooms=2.0, sqm=69.57, street=' Levisohnweg 7,', distAndIndex='22081 Hamburg, Barmbek-Süd')
+53.57424
+10.03876
+
+Flat(fullLink='https://www.immobilienscout24.de/expose/115704146', title='Neubauprojekt in Hamburg Langenhorn - 2 Zimmer Penthouse Wohnung', price=917.96, additionalCost=136.59, rooms=2.0, sqm=68.25, street=' Langenhorner Chaussee 680,', distAndIndex='22419 Hamburg, Langenhorn')
+53.68003
+10.0007
+
+Flat(fullLink='https://www.immobilienscout24.de/expose/82916308', title='Erstbezug nach Totalsaierung 3-Zimmerwohnung mit Balkon u. Gartennutzung', price=771.0, additionalCost=85.0, rooms=3.0, sqm=60.94, street=' Heitmannstraße 14,', distAndIndex='22083 Hamburg, Barmbek-Süd')
+53.57548
+10.03202
+
+Flat(fullLink='https://www.immobilienscout24.de/expose/114528621', title='Wohnen im Facettenreich - Exklusive 3-Zimmer-Wohnung mit Weitblick über die Dächer von Hamburg!', price=2388.0, additionalCost=600.0, rooms=3.0, sqm=154.09, street=' Stadthausbrücke 8B,', distAndIndex='20355 Hamburg, Neustadt')
+53.55105
+9.98612
+
+Flat(fullLink='https://www.immobilienscout24.de/expose/49631334', title='3-Zi.-Whg. in zentraler und begehrter Wohnlage in Harburg-Heimfeld', price=655.0, additionalCost=77.0, rooms=3.0, sqm=67.11, street=' Woellmerstraße 00,', distAndIndex='21075 Hamburg, Heimfeld')
+53.46616
+9.96102
+
+Flat(fullLink='https://www.immobilienscout24.de/expose/110700539', title='Bergedorf/Klosterhagen, renovierte, schöne 2 Zi. Altb-Whg.,+ Wohnküche/Balkon, Vollbad', price=669.0, additionalCost=100.0, rooms=2.0, sqm=56.39, street=' Klosterhagen 26 a,', distAndIndex='21029 Hamburg, Bergedorf')
+53.496616
+10.216764
+
+Flat(fullLink='https://www.immobilienscout24.de/expose/116268452', title='Bramfeld - 3 ZW mit Terrasse in ruhiger Lage mit guter Anbindung', price=900.0, additionalCost=180.0, rooms=3.0, sqm=85.0, street=None, distAndIndex='22175 Hamburg, Bramfeld')
+None
+None
+
+Flat(fullLink='https://www.immobilienscout24.de/expose/116268500', title='Helle Wohnung in ruhiger Innenhoflage', price=1510.0, additionalCost=290.0, rooms=4.0, sqm=116.0, street=' Alsterdorfer Straße 469,', distAndIndex='22337 Hamburg, Alsterdorf')
+53.61557
+10.02236
+
+Flat(fullLink='https://www.immobilienscout24.de/expose/116115424', title='Hochparterre , Südlage, sonniger Garten top geschnittene 4 Zimmer: absolute Alsternähe', price=2232.45, additionalCost=0.0, rooms=4.0, sqm=114.0, street=None, distAndIndex='22299 Hamburg, Winterhude')
+None
+None
+
+Flat(fullLink='https://www.immobilienscout24.de/expose/103110932', title='sanierte, elegante Altbauwohnung, auch als Wohnbüro, Alsternähe, U-Bahn, feines Winterhude ', price=3150.0, additionalCost=587.0, rooms=6.0, sqm=224.95, street=None, distAndIndex='22299 Hamburg - Winterhude, Hamburg')
+None
+None
+
+Flat(fullLink='https://www.immobilienscout24.de/expose/116240269', title='3 - Zimmer-Penthouse-Wohnung im Zylinderviertel', price=1625.0, additionalCost=340.0, rooms=3.0, sqm=102.0, street=' Siebenschön 11,', distAndIndex='22529 Hamburg, Lokstedt')
+53.59558
+9.96423
+
+Flat(fullLink='https://www.immobilienscout24.de/expose/115137673', title='Geräumige Erdgeschoss-Wohnung mit Westterrasse unweit der Waitzstraße!', price=1500.0, additionalCost=300.0, rooms=3.0, sqm=100.0, street=None, distAndIndex='22607 Hamburg, Groß Flottbek')
+None
+None
+
+Flat(fullLink='https://www.immobilienscout24.de/expose/116448075', title='Gut geschnittene 3 Zimmer Wohnung im West-Park in Othmarschen', price=1400.0, additionalCost=139.0, rooms=3.0, sqm=87.4, street=' Jürgen-Töpfer-Str. 34,', distAndIndex='22763 Hamburg, Othmarschen')
+53.55757
+9.90632
+
+Flat(fullLink='https://www.immobilienscout24.de/expose/116700448', title='Gemütliche möblierte 2-Zimmer-Dachgeschosswohnung!', price=1260.0, additionalCost=200.0, rooms=2.0, sqm=70.0, street=None, distAndIndex='22607 Hamburg, Groß Flottbek')
+None
+None
+
+Flat(fullLink='https://www.immobilienscout24.de/expose/116266335', title='Erstbezug! Helle und möblierte 2 Zimmer Wohnung mit Balkon /neues Duschbad/neue Küche /ab 01.04.2020', price=953.0, additionalCost=147.0, rooms=2.0, sqm=37.0, street=' Pfennigsbusch xx,', distAndIndex='22081 Hamburg, Barmbek-Süd')
+53.58174
+10.04897
+
+Flat(fullLink='https://www.immobilienscout24.de/expose/116079758', title='Neubau-Erstbezug in Bestlage der Hafencity', price=2450.0, additionalCost=580.0, rooms=2.0, sqm=104.0, street=None, distAndIndex='20457 Hamburg, HafenCity')
+None
+None
+
+Flat(fullLink='https://www.immobilienscout24.de/expose/115295238', title='Frisch sanierte, top ausgestattete Wohnung in typisch norddeutschem Rotklinker', price=925.0, additionalCost=100.0, rooms=2.5, sqm=65.91, street=' Heukoppel 42,', distAndIndex='22719 Hamburg, Bramfeld')
+53.61051
+10.08483
+
+Flat(fullLink='https://www.immobilienscout24.de/expose/115267739', title='Zentrale 3 Zi.-Wohnung mit gr. Dachterrasse', price=890.0, additionalCost=370.0, rooms=3.0, sqm=99.0, street=None, distAndIndex='22391 Hamburg, Wellingsbüttel')
+None
+None
+
+Flat(fullLink='https://www.immobilienscout24.de/expose/115217549', title='Hamburg pur: sensationeller Lifestyle an der Elbe', price=2990.0, additionalCost=730.0, rooms=2.0, sqm=134.0, street=None, distAndIndex='20457 Hamburg, HafenCity')
+None
+None
+
+Flat(fullLink='https://www.immobilienscout24.de/expose/115215713', title='Erstbezug im Harburger Binnenhafen!', price=1850.0, additionalCost=208.19, rooms=4.0, sqm=116.0, street=None, distAndIndex='21079 Hamburg, Harburg')
+None
+None
+
+Flat(fullLink='https://www.immobilienscout24.de/expose/115184299', title='Top-Wohnung mit Dachterrasse im Binnenhafen!', price=1440.0, additionalCost=155.63, rooms=2.0, sqm=86.0, street=None, distAndIndex='21079 Hamburg, Harburg')
+None
+None
+
+Flat(fullLink='https://www.immobilienscout24.de/expose/115183781', title='Neubau - Geräumige 3-Zi-Whg. mit Loggia!', price=1470.0, additionalCost=203.18, rooms=3.0, sqm=113.0, street=None, distAndIndex='21079 Hamburg, Harburg')
+None
+None
+
+Flat(fullLink='https://www.immobilienscout24.de/expose/115134640', title='Erstbezug – 3-Zi-Komfortwohnung in Harburg!', price=1220.0, additionalCost=153.07, rooms=3.0, sqm=85.0, street=None, distAndIndex='21079 Hamburg, Harburg')
+None
+None
+
+Flat(fullLink='https://www.immobilienscout24.de/expose/115133985', title='2-Zi-Komfortwohnung im Harburger Hafen!', price=1120.0, additionalCost=139.62, rooms=2.0, sqm=78.0, street=None, distAndIndex='21079 Hamburg, Harburg')
+None
+None
+
+Flat(fullLink='https://www.immobilienscout24.de/expose/114978966', title='Neue 2-Zi-Whg. mit Balkon im Binnenhafen!', price=1120.0, additionalCost=140.0, rooms=2.0, sqm=78.0, street=None, distAndIndex='21079 Hamburg, Harburg')
+None
+None
+
+Flat(fullLink='https://www.immobilienscout24.de/expose/114978167', title='2-Zi-Neubauwhg. in Harburger Hafencity!', price=1150.0, additionalCost=154.48, rooms=2.0, sqm=86.0, street=None, distAndIndex='21079 Hamburg, Harburg')
+None
+None
+
+Flat(fullLink='https://www.immobilienscout24.de/expose/114804734', title='Moderne 3-Zimmer Wohnung im Oxpark', price=1135.0, additionalCost=160.0, rooms=3.0, sqm=88.0, street=None, distAndIndex='22419 Hamburg, Langenhorn')
+None
+None
+
+Flat(fullLink='https://www.immobilienscout24.de/expose/114522837', title='Barrierefreie 2,5 Zimmerwohnung direkt am AEZ!', price=900.0, additionalCost=200.0, rooms=2.5, sqm=69.0, street=None, distAndIndex='22391 Hamburg, Poppenbüttel')
+None
+None
+
+Flat(fullLink='https://www.immobilienscout24.de/expose/113911150', title='Prestigewohnung an den Marco-Polo-Terrassen', price=2650.0, additionalCost=680.0, rooms=3.0, sqm=129.0, street=None, distAndIndex='20457 Hamburg, HafenCity')
+None
+None
+
+Flat(fullLink='https://www.immobilienscout24.de/expose/114876728', title='**Lokstedt** Exklusive Neubau 3 Zi.-Terrassenwohnung mit TG Stellplatz', price=1520.0, additionalCost=180.0, rooms=3.0, sqm=94.23, street=' Butenfeld 1a,', distAndIndex='22529 Hamburg, Lokstedt')
+53.59114
+9.96832
+
+Flat(fullLink='https://www.immobilienscout24.de/expose/116618949', title='Helligkeit und Moderne in einer schönen Familienwohnung', price=799.0, additionalCost=100.0, rooms=3.0, sqm=71.58, street=' Kanadaweg 20,', distAndIndex='22145 Hamburg, Rahlstedt')
+53.62676
+10.1519
+
+Flat(fullLink='https://www.immobilienscout24.de/expose/116421195', title='Gemütliche 2 Zimmer Wohnung nähe Tibarg Center', price=833.9, additionalCost=111.0, rooms=2.0, sqm=62.0, street=' Niendorfer Kirchenweg 31,', distAndIndex='22459 Hamburg, Niendorf')
+53.62145
+9.94858
+
+Flat(fullLink='https://www.immobilienscout24.de/expose/114087533', title='Neubauprojekt in Hamburg Langenhorn - generationsgerechter Wohnungsmix', price=941.4, additionalCost=141.6, rooms=2.0, sqm=71.0, street=' Langenhorner Chaussee 680,', distAndIndex='22419 Hamburg, Langenhorn')
+53.68003
+10.0007
+
+Flat(fullLink='https://www.immobilienscout24.de/expose/109988074', title='Willkommen in den Stadthöfen - Exklusive 2-Zimmer-Wohnung mit beeindruckender Deckenhöhe! \uf105', price=1580.0, additionalCost=410.0, rooms=2.0, sqm=105.23, street=' Große Bleichen 37 A,', distAndIndex='20354 Hamburg, Neustadt')
+53.55289
+9.98927
+
+Flat(fullLink='https://www.immobilienscout24.de/expose/116678709', title='Othmarschen, elbnah: Sonnige Wohnung m. Lift, 2 Balkonen, Kamin, Schwimmbad u. TG-Stellplatz!', price=1600.0, additionalCost=600.0, rooms=3.0, sqm=141.0, street=None, distAndIndex='22605 Hamburg-Othmarschen, Hamburg')
+None
+None
+
+Flat(fullLink='https://www.immobilienscout24.de/expose/103434161', title='Umfassend modernisiert, Einbauküche, Balkon', price=553.73, additionalCost=80.0, rooms=1.0, sqm=32.0, street=' Bürgerweide 51-53,', distAndIndex='20535 Hamburg, Borgfelde')
+53.55812
+10.03473
+
+Flat(fullLink='https://www.immobilienscout24.de/expose/116456066', title='Top-sanierte und möblierte Wohnung in Winterhude! (inkl. WLAN)', price=1060.0, additionalCost=300.0, rooms=2.0, sqm=39.0, street=' Röpersweg 1,', distAndIndex='22301 Hamburg Winterhude, Hamburg')
+53.58733
+10.01176
+
+Flat(fullLink='https://www.immobilienscout24.de/expose/116455383', title='*In Universitätsnähe* 1-Zimmer Single-Wohnung zum 01.04.2020 im Grindelviertel', price=544.35, additionalCost=70.0, rooms=1.0, sqm=19.1, street=' Grindelallee 29,', distAndIndex='20146 Hamburg, Rotherbaum')
+53.56549
+9.98228
+
+Flat(fullLink='https://www.immobilienscout24.de/expose/116673258', title='Tolle 1-Zimmer Wohnung in Neugraben mit neuem Bodenbelag!', price=406.68, additionalCost=86.0, rooms=1.0, sqm=42.54, street=' Scheideholzkehre 12a,', distAndIndex='21149 Hamburg, Neugraben-Fischbek')
+53.47018
+9.84049
+
+Flat(fullLink='https://www.immobilienscout24.de/expose/116672025', title='Schöne 3-Zimmerwohnung mit Weitblick', price=402.63, additionalCost=149.24, rooms=3.0, sqm=74.0, street=' Korachstr. 5,', distAndIndex='21031 Hamburg, Lohbrügge')
+53.50958
+10.20774
+
+Flat(fullLink='https://www.immobilienscout24.de/expose/116445902', title='Erstbezug! 3-Zimmer-Neubauwohnung mit EBK und Balkon! (21)', price=1497.0, additionalCost=203.0, rooms=3.0, sqm=88.06, street=' Böckmannstraße 7-9,', distAndIndex='20099 Hamburg, St. Georg')
+53.55354
+10.01679
+
+Flat(fullLink='https://www.immobilienscout24.de/expose/116645566', title='Traumschöne Wohnung Hafen-City mit Dachterrasse + Loggia', price=1945.0, additionalCost=240.0, rooms=4.0, sqm=126.05, street=' Shanghaiallee 17,', distAndIndex='20457 Hamburg, HafenCity')
+53.54239
+10.00321
+
+Flat(fullLink='https://www.immobilienscout24.de/expose/116140691', title='Renoviert, Einbauküche, Balkon', price=867.0, additionalCost=80.0, rooms=2.0, sqm=36.0, street=' Rostocker Straße 4,', distAndIndex='20099 Hamburg, St. Georg')
+53.55528
+10.0128
+
+Flat(fullLink='https://www.immobilienscout24.de/expose/116677434', title='Aufregend anders.', price=2990.0, additionalCost=500.0, rooms=2.0, sqm=133.0, street=None, distAndIndex='20148 Hamburg, Rotherbaum')
+None
+None
+
+Flat(fullLink='https://www.immobilienscout24.de/expose/116674605', title='Wohnung der Luxusklasse an der HafenCity Universität', price=2095.0, additionalCost=420.0, rooms=3.0, sqm=88.43, street=' Überseeallee 6-8,', distAndIndex='20457 Hamburg-HafenCity, Hamburg')
+53.54081
+10.00333
+
+Flat(fullLink='https://www.immobilienscout24.de/expose/116672527', title=' Nähe Leinpfad und Alster - Modernisierte, helle Altbau-Endetage mit Holzdielen, EBK, V-Bad, 2.OG', price=1260.0, additionalCost=126.0, rooms=3.0, sqm=85.0, street=' Maria-Louisen-Straße 7,', distAndIndex='22301 Hamburg, Winterhude')
+53.58436
+9.99694
+
+Flat(fullLink='https://www.immobilienscout24.de/expose/116461702', title='Rotherbaum: 3-Zimmer-Altbau - ideal als Wohnbüro / Praxis / Atelier', price=1273.0, additionalCost=100.0, rooms=3.0, sqm=67.0, street=None, distAndIndex='20146 Hamburg, Rotherbaum')
+None
+None
+
+Flat(fullLink='https://www.immobilienscout24.de/expose/116461651', title='Parkallee in Harvestehude: 5-Zimmer- Altbau, ideal als Wohnbüro/Praxis/Atelier', price=2285.0, additionalCost=380.0, rooms=5.0, sqm=137.0, street=None, distAndIndex='20144 Hamburg, Harvestehude')
+None
+None
+
+Flat(fullLink='https://www.immobilienscout24.de/expose/116461583', title='Parkallee in Harvestehude: 6-Zimmer-Altbau, ideal für WG oder als Wohnbüro / Praxis / Atelier', price=2500.0, additionalCost=360.0, rooms=6.0, sqm=132.0, street=None, distAndIndex='20144 Hamburg, Harvestehude')
+None
+None
+
+Flat(fullLink='https://www.immobilienscout24.de/expose/116460403', title='Hochwertige 3-Zimmmer Neubau-Wohnung mit Einbauküche & Balkon', price=1620.0, additionalCost=275.0, rooms=3.0, sqm=88.0, street=' Langenfelder Damm 46,', distAndIndex='22527 Hamburg, Stellingen')
+53.5812
+9.93831
+
+Flat(fullLink='https://www.immobilienscout24.de/expose/116458583', title='Moderne Wohnung im Neubau mit EBK & Balkon', price=860.0, additionalCost=220.0, rooms=2.0, sqm=62.0, street=' Kurt-Elvers-Weg 12,', distAndIndex='22045 Hamburg, Jenfeld')
+53.57931
+10.13596
+
+Flat(fullLink='https://www.immobilienscout24.de/expose/116458503', title='Lichtdurchflutete möblierte Neubau-Wohnung mit Wasserblick', price=1790.0, additionalCost=515.0, rooms=2.0, sqm=110.0, street=' An der Horeburg 21,', distAndIndex='21079 Hamburg, Harburg')
+53.47101
+9.9872
+
+Flat(fullLink='https://www.immobilienscout24.de/expose/116455069', title='4-Zimmer-Wohnung im Jenfelder Au', price=1555.0, additionalCost=139.68, rooms=4.0, sqm=111.74, street=' Kurt-Elvers-Weg 42,', distAndIndex='22045 Hamburg, Jenfeld')
+53.57931
+10.13596
+
+Flat(fullLink='https://www.immobilienscout24.de/expose/116455063', title='Neubautraum in Jenfeld - perfekt für Ihre kleine Familie', price=1715.0, additionalCost=154.29, rooms=4.0, sqm=123.43, street=' Kaskadenpark 32,', distAndIndex='22045 Hamburg, Jenfeld')
+53.5805
+10.13463
+
+Flat(fullLink='https://www.immobilienscout24.de/expose/116448043', title='Neubau/Erstbezug - Kompakte 2-Zimmer-Wohnung mit Balkon am Wandsbeker Quarree zu vermieten', price=940.0, additionalCost=100.0, rooms=2.0, sqm=48.0, street=None, distAndIndex='22041 Hamburg-Wandsbek, Hamburg')
+None
+None
+
+Flat(fullLink='https://www.immobilienscout24.de/expose/116243461', title='Am Alsterwanderweg: 2,5-Zi.-Hochparterre-Wohnung mit Blick ins Grüne', price=954.5, additionalCost=220.0, rooms=2.5, sqm=83.0, street=None, distAndIndex='22339 Hamburg, Hummelsbüttel')
+None
+None
+
+Flat(fullLink='https://www.immobilienscout24.de/expose/116236826', title='Tolle 3 Zimmerwohnung mit sonniger Dachterrasse', price=1015.0, additionalCost=230.0, rooms=3.0, sqm=92.3, street=' Grothwisch 1b,', distAndIndex='22457 Hamburg, Schnelsen')
+53.64812
+9.91004
+
+Flat(fullLink='https://www.immobilienscout24.de/expose/116235737', title='Erstbezug nach umfassender Modernisierung - Balkon, Einbauküche, zentrale Lage', price=1150.0, additionalCost=80.0, rooms=2.0, sqm=60.6, street=' Peterskampweg 81,', distAndIndex='22089 Hamburg, Hamm-Nord')
+53.56132
+10.05096
+
+Flat(fullLink='https://www.immobilienscout24.de/expose/116235631', title='Traumhaftes Penthouse in Toplage Marienthal!', price=2750.0, additionalCost=420.0, rooms=4.0, sqm=189.0, street=None, distAndIndex='22043 Hamburg-Marienthal, Hamburg')
+None
+None
+
+Flat(fullLink='https://www.immobilienscout24.de/expose/116232615', title='Neubau! - Hochwertige 2-Zimmer-Wohnung mit Balkon in Barmbek-Süd zu vermieten', price=1045.0, additionalCost=100.0, rooms=2.0, sqm=56.0, street=None, distAndIndex='22083 Hamburg -Barmbek-Süd, Hamburg')
+None
+None
+
+Flat(fullLink='https://www.immobilienscout24.de/expose/116224336', title='3-Zimmer-Wohnung in Hamburg Eidelstedt', price=706.09, additionalCost=145.0, rooms=3.0, sqm=68.42, street=' Elbgaustr. 13,', distAndIndex='22523 Hamburg, Eidelstedt')
+53.6064
+9.90438
+
+Flat(fullLink='https://www.immobilienscout24.de/expose/116051169', title='Once in a Lifetime!', price=8500.0, additionalCost=1175.0, rooms=4.0, sqm=220.0, street=None, distAndIndex='20457 Hamburg, HafenCity')
+None
+None
+
+Flat(fullLink='https://www.immobilienscout24.de/expose/116048357', title='**POPPENBÜTTEL** nahe AEZ - Schöne 2 Zimmer Neubau-Wohnung inkl. Garten!', price=1076.25, additionalCost=92.25, rooms=2.0, sqm=61.5, street=None, distAndIndex='22399 Hamburg, Poppenbüttel')
+None
+None
+
+Flat(fullLink='https://www.immobilienscout24.de/expose/116048339', title='**NEUBAU-ERSTBEZUG Poppenbüttel** 2 Zimmer - Wohnen für Anspruchsvolle!', price=1015.0, additionalCost=87.0, rooms=2.0, sqm=58.0, street=None, distAndIndex='22399 Hamburg, Poppenbüttel')
+None
+None
+
+Flat(fullLink='https://www.immobilienscout24.de/expose/115829561', title='Wohnung mitten im Schanzenviertel', price=1790.0, additionalCost=None, rooms=2.0, sqm=55.0, street=None, distAndIndex='20357 Hamburg, Sternschanze')
+None
+None
+
+Flat(fullLink='https://www.immobilienscout24.de/expose/115734038', title='Neubauprojekt Elbkant - Großzügiges und modernes Wohnen', price=2620.0, additionalCost=303.41, rooms=4.0, sqm=103.0, street=None, distAndIndex='20457 Hamburg, HafenCity')
+None
+None
+
+Flat(fullLink='https://www.immobilienscout24.de/expose/115734025', title='Stilvolles Wohnen in der Hafen City!', price=2455.0, additionalCost=288.22, rooms=3.0, sqm=98.0, street=None, distAndIndex='20457 Hamburg, HafenCity')
+None
+None
+
+Flat(fullLink='https://www.immobilienscout24.de/expose/115734022', title='Elbkant - Neubauprojekt am Baakenhafen', price=1665.0, additionalCost=207.98, rooms=3.0, sqm=71.0, street=None, distAndIndex='20457 Hamburg, HafenCity')
+None
+None
+
+Flat(fullLink='https://www.immobilienscout24.de/expose/115734016', title='Baakenhafen - Leben an der Elbe!', price=1105.0, additionalCost=149.86, rooms=2.0, sqm=51.0, street=None, distAndIndex='20457 Hamburg, HafenCity')
+None
+None
+
+Flat(fullLink='https://www.immobilienscout24.de/expose/115733997', title='Moderne 4-Zimmerwohnung in der Hafen City!', price=2275.0, additionalCost=271.7, rooms=4.0, sqm=92.0, street=None, distAndIndex='20457 Hamburg, HafenCity')
+None
+None
+
+Flat(fullLink='https://www.immobilienscout24.de/expose/115733991', title='Wohnen mit Blick auf die Elbe', price=960.0, additionalCost=115.05, rooms=1.5, sqm=39.0, street=None, distAndIndex='20457 Hamburg, HafenCity')
+None
+None
+
+Flat(fullLink='https://www.immobilienscout24.de/expose/115733973', title='4-Zimmer Neubauwohnung in der Hafen City!', price=2385.0, additionalCost=271.7, rooms=4.0, sqm=92.0, street=None, distAndIndex='20457 Hamburg, HafenCity')
+None
+None
+
+Flat(fullLink='https://www.immobilienscout24.de/expose/115693917', title='Im Herzen des Grindelviertels: 4-Zi-Altbau in Uninähe, ideal für WG / als Atelier oder Wohnbüro', price=2275.0, additionalCost=360.0, rooms=4.0, sqm=130.0, street=None, distAndIndex='20146 Hamburg, Rotherbaum')
+None
+None
+
+Flat(fullLink='https://www.immobilienscout24.de/expose/115474523', title='BLICK ÜBER DIE HAFENCITY: Stilvolle Penthousewohnung mit über 100m² Dachterrasse!', price=2790.0, additionalCost=455.0, rooms=3.0, sqm=162.38, street=' Versmannstraße 16,', distAndIndex='20457 Hamburg, HafenCity')
+53.53981
+10.01009
+
+Flat(fullLink='https://www.immobilienscout24.de/expose/115474509', title='MY ROOFTOP: Penthouse Wohnung mit über 100m² privater Dachterrasse!', price=2870.0, additionalCost=470.0, rooms=3.0, sqm=166.1, street=' Versmannstraße 16,', distAndIndex='20457 Hamburg, HafenCity')
+53.53981
+10.01009
+
+Flat(fullLink='https://www.immobilienscout24.de/expose/115474375', title='Moderne 3-Zimmer-Wohnung in der Hafencity!', price=2000.0, additionalCost=265.0, rooms=3.0, sqm=93.71, street=None, distAndIndex='20457 Hamburg, HafenCity')
+None
+None
+
+Flat(fullLink='https://www.immobilienscout24.de/expose/115362966', title='Praktische 4-Zimmer-Erdgeschosswohnung mit Terrasse und eigenem Garten im ruhigen Innenhof gelegen', price=1410.0, additionalCost=206.0, rooms=4.0, sqm=96.0, street=None, distAndIndex='22335 Hamburg, Alsterdorf')
+None
+None
+
+Flat(fullLink='https://www.immobilienscout24.de/expose/115309921', title='Charmante 3-Zimmer-Maisonettewohnung mit 2 Balkonen im ruhigen Innenhof an der Alsterkrugchaussee', price=1100.0, additionalCost=164.0, rooms=3.0, sqm=76.0, street=None, distAndIndex='22335 Hamburg, Alsterdorf')
+None
+None
+
+Flat(fullLink='https://www.immobilienscout24.de/expose/115185880', title='Hochwertige Loft-Wohnung in einer Parkanlage im Averhoff-Park auf der Uhlenhorst', price=1340.0, additionalCost=115.0, rooms=2.0, sqm=47.0, street=None, distAndIndex='22085 Hamburg-Uhlenhorst, Hamburg')
+None
+None
+
+Flat(fullLink='https://www.immobilienscout24.de/expose/114721407', title='Erstbezug! - Exklusives 2-Zimmer-Penthouse mit zwei Terrassen und Weitblick über Hamburgs Norden', price=1400.0, additionalCost=140.0, rooms=2.0, sqm=71.0, street=' Erdkampsweg 6,', distAndIndex='22335 Hamburg-Fuhlsbüttel, Hamburg')
+53.62689
+10.02565
+
+Flat(fullLink='https://www.immobilienscout24.de/expose/114559582', title='Zweitwohnsitz in Bestlage', price=2190.0, additionalCost=420.0, rooms=2.0, sqm=73.0, street=None, distAndIndex='20457 Hamburg, HafenCity')
+None
+None
+
+Flat(fullLink='https://www.immobilienscout24.de/expose/114430485', title='Großzügige 4-Zimmer-Neubauwohnung in der Endetage mit zwei Balkonen an der Alsterkrugchaussee', price=1530.0, additionalCost=215.0, rooms=4.0, sqm=104.0, street=None, distAndIndex='22335 Hamburg-Fuhlsbüttel, Hamburg')
+None
+None
+
+Flat(fullLink='https://www.immobilienscout24.de/expose/114018868', title='Möblierte Zimmerappartments in Hamburg - Wandsbek!', price=570.0, additionalCost=200.0, rooms=1.0, sqm=30.0, street=' Kattunbleiche 30,', distAndIndex='22041 Hamburg, Wandsbek')
+53.57448
+10.07194
+
+Flat(fullLink='https://www.immobilienscout24.de/expose/113470415', title='Möbliertes Apartment in Altona - Hochwertiger Neubau in ruhiger und zentraler Lage', price=1000.0, additionalCost=100.0, rooms=1.0, sqm=33.0, street=None, distAndIndex='22765 Hamburg / Altona-Nord, Altona-Altstadt')
+None
+None
+
+Flat(fullLink='https://www.immobilienscout24.de/expose/110244939', title='Wunderschöne modern möblierte 2,5 Zimmer Wohnung/ 2 Schlafzimmer/ Süd-Balkon/verfügbar ab 01.07.2020', price=1200.0, additionalCost=455.5, rooms=2.5, sqm=53.0, street=' Volksdorfer Straße xx,', distAndIndex='22081 Hamburg, Barmbek-Süd')
+53.57621
+10.04047
+
+Flat(fullLink='https://www.immobilienscout24.de/expose/110244354', title='Modern möbl. 1-Zimmer Wohnung/ Balkon/ offener EBK / Stellplatz/ Miete 995,00€/ Monat/ ab 01.04.2020', price=805.0, additionalCost=140.0, rooms=1.0, sqm=40.0, street=' Frohmestraße xx,', distAndIndex='22459 Hamburg, Schnelsen')
+53.6341636
+9.9192995
+
+Flat(fullLink='https://www.immobilienscout24.de/expose/109492745', title='***EPPENDORF - HOHELUFT*** 3 Zimmer Jugendstil nahe UKE - TEILMÖBLIERT - TOP-Zustand', price=1500.0, additionalCost=150.0, rooms=2.5, sqm=69.0, street=None, distAndIndex='20251 Hamburg, Hoheluft-Ost')
+None
+None
+
+Flat(fullLink='https://www.immobilienscout24.de/expose/100651571', title='3-Zimmerwohnung in Neuengamme mit Balkon', price=900.0, additionalCost=100.0, rooms=3.0, sqm=72.9, street=None, distAndIndex='21039 Hamburg, Neuengamme')
+None
+None
+
+Flat(fullLink='https://www.immobilienscout24.de/expose/83147231', title='Großzügige, helle 2 Zimmer Wohnung mit inneren Werten', price=1095.0, additionalCost=95.0, rooms=2.0, sqm=79.0, street=' Pulverteich 18,', distAndIndex='20099 Hamburg, St. Georg')
+53.55347
+10.01447
+
+Flat(fullLink='https://www.immobilienscout24.de/expose/116622352', title='Teilmöblierter Komfort in Altona', price=775.0, additionalCost=79.0, rooms=2.0, sqm=43.0, street=' Holstentwiete 4,', distAndIndex='22763 Hamburg, Ottensen')
+53.55257
+9.9237
+
+Flat(fullLink='https://www.immobilienscout24.de/expose/116621536', title='Moderne Maisonette in gepflegter Reihenhaussiedlung', price=612.5, additionalCost=90.0, rooms=2.0, sqm=49.18, street=' Ferner Kamp 5,', distAndIndex='22177 Hamburg, Bramfeld')
+53.60884
+10.06975
+
+Flat(fullLink='https://www.immobilienscout24.de/expose/114437961', title='Neubau Familienwohnung - auch WG geeignet!', price=1257.0, additionalCost=235.0, rooms=3.0, sqm=90.45, street=' Harburger Schloßstraße 13,', distAndIndex='21079 Hamburg, Harburg')
+53.46481
+9.98281
+
+Flat(fullLink='https://www.immobilienscout24.de/expose/111311387', title='KONTAKT NUR PER EMAIL - NUR FÜR WOHNGEMEINSCHAFTEN FÜR STUDENTEN UND AUSZUBILDENDE -', price=445.0, additionalCost=92.62, rooms=2.0, sqm=40.48, street=None, distAndIndex='22529 Hamburg, Lokstedt')
+None
+None
+
+Flat(fullLink='https://www.immobilienscout24.de/expose/116576108', title='Modernes Wohnen mit Südbalkon in grüner Lage', price=885.0, additionalCost=290.0, rooms=2.5, sqm=74.0, street=' Kimbernstr. 8,', distAndIndex='22455 Hamburg, Niendorf')
+53.64046
+9.96941
+
+Flat(fullLink='https://www.immobilienscout24.de/expose/115565439', title='Charmante 3-Zimmer Neubauwohnung mit zwei Balkonen zu mieten mit Umzugsbeteiligung', price=1180.0, additionalCost=65.0, rooms=3.0, sqm=88.51, street=' Gaiserstrasse 6d,', distAndIndex='21073 Hamburg, Harburg')
+53.4525
+9.97455
+
+Flat(fullLink='https://www.immobilienscout24.de/expose/116423163', title='Erstbezug, umfassend modernisiert, Einbauküche, Balkon', price=1200.0, additionalCost=80.0, rooms=2.5, sqm=62.86, street=' Marienthaler Straße 148,', distAndIndex='20535 Hamburg, Hamm-Nord')
+53.56421
+10.05745
+
+Flat(fullLink='https://www.immobilienscout24.de/expose/116647200', title='moderne 1,5 Zimmerwohnung in Hamburg-Rahlstedt', price=399.37, additionalCost=50.0, rooms=1.5, sqm=36.64, street=' Kohövedstraße 2,', distAndIndex='22143 Hamburg, Rahlstedt')
+53.60563
+10.14775
+
+Flat(fullLink='https://www.immobilienscout24.de/expose/116416302', title='Modernisierte 3 Zimmer Traumwohnung!', price=1196.0, additionalCost=133.0, rooms=3.0, sqm=99.22, street=' Pulverhofsweg 77,', distAndIndex='22159 Hamburg, Farmsen-Berne')
+53.59729
+10.12908
+
+Flat(fullLink='https://www.immobilienscout24.de/expose/116611128', title='Altbauwohnung in Unilage', price=2200.0, additionalCost=200.0, rooms=5.0, sqm=160.0, street=None, distAndIndex='20146 Hamburg, Rotherbaum')
+None
+None
+
+Flat(fullLink='https://www.immobilienscout24.de/expose/115658266', title='Großzügige 4-Zimmer-Neubauwohnung mit schöner Terrasse', price=1390.0, additionalCost=370.0, rooms=4.0, sqm=125.0, street=' Am Schilfpark 4,', distAndIndex='21029 Hamburg, Bergedorf')
+53.47883
+10.20341
+
+Flat(fullLink='https://www.immobilienscout24.de/expose/115658201', title='Schöne 4-Zimmer-Neubauwohnung mit großzügiger Dachterrasse', price=1350.0, additionalCost=350.0, rooms=4.0, sqm=117.0, street=' Am Schilfpark 5a-c,', distAndIndex='21029 Hamburg, Bergedorf')
+53.47883
+10.20341
+
+Flat(fullLink='https://www.immobilienscout24.de/expose/115652901', title='3-Zimmer-Wohnung an der Tarpenbek', price=1550.0, additionalCost=260.0, rooms=3.0, sqm=96.0, street=None, distAndIndex='22453 Hamburg, Groß Borstel')
+None
+None
+
+Flat(fullLink='https://www.immobilienscout24.de/expose/115004849', title='Leben am Schilfpark - Neubauwohnung mit 3 Zimmern in Bergedorf', price=1040.0, additionalCost=280.0, rooms=3.0, sqm=93.0, street=' Am Schilfpark 5a-c,', distAndIndex='21029 Hamburg, Bergedorf')
+53.47883
+10.20341
+
+Flat(fullLink='https://www.immobilienscout24.de/expose/89885615', title='Wohnung mit Terrasse & eigenem Garten', price=1100.0, additionalCost=295.0, rooms=2.0, sqm=88.0, street=None, distAndIndex='22527 Hamburg, Stellingen')
+None
+None
+
+Flat(fullLink='https://www.immobilienscout24.de/expose/88933250', title='Loftwohnung mit stilvoller Möblierung', price=2000.0, additionalCost=300.0, rooms=2.0, sqm=100.0, street=None, distAndIndex='20457 Hamburg, Hamb.-Altstadt')
+None
+None
+
+Flat(fullLink='https://www.immobilienscout24.de/expose/114318415', title='Schöne, gepflegte 4-Zimmer-Wohnung mit EBK', price=1164.36, additionalCost=109.33, rooms=4.0, sqm=109.33, street=' Im Torfmoos 19,', distAndIndex='22417 Hamburg, Langenhorn')
+53.67267
+10.03006
+
+Flat(fullLink='https://www.immobilienscout24.de/expose/115924399', title='Erstbezug nach Renovierung: charmante Altbauwohnung 2 Zimmer zum 01.04.', price=720.58, additionalCost=150.0, rooms=2.0, sqm=51.47, street=' Steindamm 17,', distAndIndex='20099 Hamburg, St. Georg')
+53.55344
+10.01152
+
+Flat(fullLink='https://www.immobilienscout24.de/expose/115179993', title='Idyll in Winterhude – Schöne 3,5-Zimmerwohnung, eine Oase nahe der Außenalster!', price=1621.0, additionalCost=154.0, rooms=3.5, sqm=118.0, street=' Gellertstraße 7,', distAndIndex='22301 Hamburg, Winterhude')
+53.57979
+10.00707
+
+Flat(fullLink='https://www.immobilienscout24.de/expose/116646450', title='2-Zimmer-Wohnung in Hamburg Borgfelde', price=679.78, additionalCost=115.0, rooms=2.0, sqm=59.06, street=' Klaus-Groth-Str. 62,', distAndIndex='20535 Hamburg, Borgfelde')
+53.55525
+10.03261
+
+Flat(fullLink='https://www.immobilienscout24.de/expose/116646383', title='2,0-Zimmer-Wohnung in Hamburg Borgfelde', price=629.94, additionalCost=105.0, rooms=2.0, sqm=53.07, street=' Klaus-Groth-Str. 68,', distAndIndex='20535 Hamburg, Borgfelde')
+53.55538
+10.03339
+
+Flat(fullLink='https://www.immobilienscout24.de/expose/116644697', title='Modernisierte 3 Zimmer Wohnung mit Balkon und Fahrstuhl', price=795.0, additionalCost=200.0, rooms=3.0, sqm=75.0, street=' Altenhagener Weg 8,', distAndIndex='22147 Hamburg, Rahlstedt')
+53.60595
+10.1326
+
+Flat(fullLink='https://www.immobilienscout24.de/expose/116644308', title='Eidelstedt: Moderne 3-Zimmer-Neubauwohnung', price=1150.0, additionalCost=210.0, rooms=3.0, sqm=74.7, street=' Holsteiner Chaussee 22 - 28,', distAndIndex='22523 Hamburg, Eidelstedt')
+53.61018
+9.9052
+
+Flat(fullLink='https://www.immobilienscout24.de/expose/116637697', title='3-Zimmer-Wohnung in Hamburg Rahlstedt (2004_166)', price=691.12, additionalCost=125.0, rooms=3.0, sqm=64.41, street=' Farmsener Zoll 10,', distAndIndex='22147 Hamburg, Rahlstedt')
+53.60459
+10.13038
+
+Flat(fullLink='https://www.immobilienscout24.de/expose/116423265', title='Neubau/Erstbezug - 2-Zimmer-Wohnung mit großem Balkon in zentraler Lage am Wandsbek Quarree', price=1100.0, additionalCost=120.0, rooms=2.0, sqm=58.0, street=None, distAndIndex='22041 Hamburg-Wandsbek, Hamburg')
+None
+None
+
+Flat(fullLink='https://www.immobilienscout24.de/expose/116416554', title="Living in Hamburg's oldest village", price=840.0, additionalCost=50.0, rooms=1.0, sqm=17.0, street=' Klosterallee 67,', distAndIndex='20144 Hamburg, Harvestehude')
+53.58041
+9.97944
+
+Flat(fullLink='https://www.immobilienscout24.de/expose/116416537', title="Living in Hamburg's oldest village", price=840.0, additionalCost=50.0, rooms=1.0, sqm=21.0, street=' Klosterallee 67,', distAndIndex='20144 Hamburg, Harvestehude')
+53.58041
+9.97944
+
+Flat(fullLink='https://www.immobilienscout24.de/expose/116416535', title='Always by the water: your new home in Eilbek', price=830.0, additionalCost=50.0, rooms=1.0, sqm=16.0, street=' Schellingstraße 13 vorne,', distAndIndex='22089 Hamburg, Eilbek')
+53.56921
+10.04666
+
+Flat(fullLink='https://www.immobilienscout24.de/expose/116416532', title='Moin Winterhude!', price=730.0, additionalCost=50.0, rooms=1.0, sqm=16.0, street=' Sierichstraße 18,', distAndIndex='22301 Hamburg, Winterhude')
+53.57933
+10.00895
+
+Flat(fullLink='https://www.immobilienscout24.de/expose/116416531', title="Living in Hamburg's oldest village", price=910.0, additionalCost=50.0, rooms=1.0, sqm=25.0, street=' Klosterallee 67,', distAndIndex='20144 Hamburg, Harvestehude')
+53.58041
+9.97944
+
+Flat(fullLink='https://www.immobilienscout24.de/expose/116416529', title="Living in Hamburg's oldest village", price=740.0, additionalCost=50.0, rooms=1.0, sqm=14.0, street=' Klosterallee 67,', distAndIndex='20144 Hamburg, Harvestehude')
+53.58041
+9.97944
+
+Flat(fullLink='https://www.immobilienscout24.de/expose/116199228', title='Im Herzen von Alt-Osdorf', price=1150.0, additionalCost=180.0, rooms=3.0, sqm=81.0, street=None, distAndIndex='22549 Hamburg, Osdorf')
+None
+None
+
+Flat(fullLink='https://www.immobilienscout24.de/expose/116196528', title='Sanierte und stilvoll möblierte 2 Zi-Altbau-Wohnung mit Balkon/Kamin/Waschtrockner uvm. in Schanz...', price=1250.0, additionalCost=250.0, rooms=2.0, sqm=54.0, street=' Gravensteiner Straße 5,', distAndIndex='20259 Hamburg, Eimsbüttel')
+53.56846
+9.95229
+
+Flat(fullLink='https://www.immobilienscout24.de/expose/116026810', title='Moderne 2-Zimmer-Wohnung in ruhiger Wohngegend (HH-Marmstorf)', price=748.8, additionalCost=130.0, rooms=2.0, sqm=62.4, street=' Märchenweg 1,', distAndIndex='21077 Hamburg, Marmstorf')
+53.44059
+9.96636
+
+Flat(fullLink='https://www.immobilienscout24.de/expose/116018839', title='RESERVIERT: Ihr Logenplatz an der Elbe', price=2950.0, additionalCost=680.0, rooms=3.0, sqm=126.0, street=None, distAndIndex='20457 Hamburg, HafenCity')
+None
+None
+
+Flat(fullLink='https://www.immobilienscout24.de/expose/115804152', title='Erstbezug! - Hochwertige 3-Zimmer-Neubauwohnung mit schöner Terrasse zu vermieten', price=1350.0, additionalCost=185.0, rooms=3.0, sqm=91.0, street=' Erdkampsweg 4,', distAndIndex='22335 Hamburg-Fuhlsbüttel, Hamburg')
+53.62679
+10.02589
+
+Flat(fullLink='https://www.immobilienscout24.de/expose/115739887', title='Gemütlich möblierte 3 Zimmer-Altbauwohnung in Winterhude', price=1000.0, additionalCost=204.82, rooms=3.0, sqm=63.0, street=' Imstedt xx,', distAndIndex='22083 Hamburg, Barmbek-Süd')
+53.57962
+10.02757
+
+Flat(fullLink='https://www.immobilienscout24.de/expose/115738731', title='Möblierte Top-Endetage in Hamburg Winterhude-Süd mit Vollausstattung', price=3300.0, additionalCost=None, rooms=3.0, sqm=125.0, street=' Wentzelstr. 8,', distAndIndex='22301 Hamburg, Winterhude')
+53.58093
+10.0056
+
+Flat(fullLink='https://www.immobilienscout24.de/expose/115734116', title='Am Alsterwanderweg: Renovierte 2,5-Zi.-Hochparterre-Wohnung mit Blick ins Grüne', price=1079.0, additionalCost=220.0, rooms=2.5, sqm=83.0, street=None, distAndIndex='22339 Hamburg, Hummelsbüttel')
+None
+None
+
+Flat(fullLink='https://www.immobilienscout24.de/expose/115561424', title='Lichtdurchflutete 3-Zimmer Wohnung mit Blick auf die Elbphilharmonie und den Sandtorhafen', price=2800.0, additionalCost=400.0, rooms=3.0, sqm=138.0, street=' Am Sandtorkai 62,', distAndIndex='20457 Hamburg, HafenCity, Hamburg')
+53.54288
+9.98978
+
+Flat(fullLink='https://www.immobilienscout24.de/expose/115451499', title='Erstbezug! Großzügige 3-Zimmer-Penthouse-Wohnung mit Terrasse in Hamburg-Eppendorf', price=2750.0, additionalCost=265.08, rooms=3.0, sqm=134.92, street=' Eppendorfer Landstraße 97-101,', distAndIndex='20251 Hamburg, Eppendorf')
+53.59278
+9.98821
+
+Flat(fullLink='https://www.immobilienscout24.de/expose/115334213', title='tolle Wohnung mit zwei Balkonen', price=1311.0, additionalCost=270.0, rooms=3.0, sqm=96.27, street=' Weidende 11,', distAndIndex='22391 Hamburg, Sasel')
+53.65495
+10.10113
+
+Flat(fullLink='https://www.immobilienscout24.de/expose/114436062', title='Single-Wohnung im Rahlstedter Zentrum ', price=625.0, additionalCost=140.0, rooms=1.0, sqm=50.0, street=' Schmahlsweg 16,', distAndIndex='22143 Hamburg, Rahlstedt')
+53.60588
+10.1613
+
+Flat(fullLink='https://www.immobilienscout24.de/expose/113511179', title='3,5-Zimmer-Wohnung mit Winter-Elbblick - Befristet auf bis zu 2 Jahre', price=1985.0, additionalCost=525.0, rooms=3.5, sqm=143.0, street=' Süllbergsterrasse 2,', distAndIndex='22587 Hamburg, Blankenese')
+53.56032
+9.79998
+
+Flat(fullLink='https://www.immobilienscout24.de/expose/113054734', title='Hell und gemütlich möblierte 1 Zimmer Wohnung mit Sitzküche / zentrumsnah/ ab 01.05.2020 frei', price=700.0, additionalCost=353.0, rooms=1.0, sqm=28.0, street=' Güntherstraße xx,', distAndIndex='22087 Hamburg, Hohenfelde')
+53.56414
+10.02902
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             
