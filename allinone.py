@@ -32,7 +32,7 @@ def getLatAndLongt(street, distAndIndex):
         if len(street) < 1:
             return (None, None)
     except Exception as e:
-        print("No street provided: ", e)
+        pass
     try:
         location = geolocator.geocode(street + " " + distAndIndex)
         return location.latitude, location.longitude
@@ -78,8 +78,8 @@ soup = bs.BeautifulSoup(source, 'lxml')
 
 # finding the number of pages as int
 for option in soup.find_all('option'):
-    pages = option.get_text()
-pages = int(pages)
+    ims_pages = option.get_text()
+ims_pages = int(ims_pages)
 
 #empty list for all flat links
 linklist = []
@@ -88,7 +88,7 @@ linklist = []
 
 print("\nScraping flats from immoscout\n")
 
-for num_page in tqdm(range(1, pages + 1)):
+for num_page in tqdm(range(1, ims_pages + 1)):
 #for num_page in tqdm(range(1, 5)):
     with open(log_path, 'a') as f:
         f.write("Scraping Page {page} from immobilienscout24\n".format(page=num_page))
@@ -118,12 +118,12 @@ soup_wggesucht = bs.BeautifulSoup(source, 'lxml')
 # Scraping the number of pages
 
 for option in soup_wggesucht.find_all("a", {"class": "a-pagination"}):
-    pages = option.get_text()
-pages = int(pages)
+    wg_pages = option.get_text()
+wg_pages = int(wg_pages)
 
 #scraping links from each page 
 
-for i in tqdm(range(1, pages+1)):
+for i in tqdm(range(1, wg_pages+1)):
 #for i in tqdm(range(1, 2)):
 
     with open(log_path, 'a') as f:
