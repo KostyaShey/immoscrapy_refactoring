@@ -1,0 +1,20 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+pylint = "*"
+
+[packages]
+bs4 = "*"
+torrequest = "*"
+fake-useragent = "*"
+geopy = "*"
+folium = "*"
+pandas = "*"
+tqdm = "*"
+lxml = "*"
+
+[requires]
+python_version = "3.8"

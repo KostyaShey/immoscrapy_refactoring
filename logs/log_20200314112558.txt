@@ -1,0 +1,133 @@
+
+Scraping Page 1 from immobilienscout24
+Skipping https://www.immobilienscout24.de/neubau/bibo-stahlbetonbau-gmbh/mietneubauwohnung-in-hamburg/83754.html
+Scraping Page 2 from immobilienscout24
+Skipping https://www.immobilienscout24.de/neubau/baugenossenschaft-dennerstrasse-selbsthilfe-eg/neubauprojekt-in-hamburg-farmsen-berne/84900.html
+Scraping Page 3 from immobilienscout24
+Scraping Page 4 from immobilienscout24
+Scraping Page 0 from wg-gesucht.de
+Skipping https://housinganywhere.com/de/s/Hamburg--Deutschland/wohnung-mieten?utm_source=wg-gesucht&utm_medium=affiliate&utm_campaign=top-placement&utm_content=hamburg
+Skipping wohnungen-in-Hamburg-Jenfeld.7844465.html because it's a duplicate
+Skipping wohnungen-in-Hamburg-Wandsbek.7802670.html because it's a duplicate
+Skipping wohnungen-in-Hamburg-Bahrenfeld.4185685.html because it's a duplicate
+Skipping wohnungen-in-Hamburg-Eimsbuttel.7865098.html because it's a duplicate
+Skipping wohnungen-in-Hamburg-Bramfeld.7861153.html because it's a duplicate
+Skipping wohnungen-in-Hamburg-Winterhude.6949740.html because it's a duplicate
+Skipping wohnungen-in-Hamburg-Harburg.7443655.html because it's a duplicate
+Skipping wohnungen-in-Hamburg-Winterhude.7846060.html because it's a duplicate
+Skipping wohnungen-in-Hamburg-Wandsbek.7897588.html because it's a duplicate
+Skipping wohnungen-in-Hamburg-Osdorf.7898471.html because it's a duplicate
+Skipping wohnungen-in-Hamburg-Lokstedt.7898183.html because it's a duplicate
+Skipping wohnungen-in-Hamburg-Eimsbuttel.7751635.html because it's a duplicate
+Skipping wohnungen-in-Hamburg-Harburg.7896600.html because it's a duplicate
+Skipping wohnungen-in-Hamburg-Barmbek-Nord.7894798.html because it's a duplicate
+Skipping wohnungen-in-Hamburg-Marienthal.7894737.html because it's a duplicate
+Skipping wohnungen-in-Hamburg-Eimsbuttel.5421042.html because it's a duplicate
+Skipping wohnungen-in-Hamburg-Finkenwerder.7878352.html because it's a duplicate
+Skipping wohnungen-in-Hamburg-Alsterdorf.7871988.html because it's a duplicate
+Skipping wohnungen-in-Hamburg-Bergedorf.3593297.html because it's a duplicate
+Skipping wohnungen-in-Hamburg-Hamburg.7890579.html because it's a duplicate
+Scraping Page 1 from wg-gesucht.de
+Skipping https://housinganywhere.com/de/s/Hamburg--Deutschland/wohnung-mieten?utm_source=wg-gesucht&utm_medium=affiliate&utm_campaign=top-placement&utm_content=hamburg
+Skipping wohnungen-in-Hamburg-Eppendorf.7890397.html because it's a duplicate
+Skipping wohnungen-in-Hamburg-St-Pauli.7870780.html because it's a duplicate
+Skipping wohnungen-in-Hamburg-Harburg.5580247.html because it's a duplicate
+Skipping wohnungen-in-Hamburg-Winterhude.7890117.html because it's a duplicate
+Skipping wohnungen-in-Hamburg-Hausbruch.7888058.html because it's a duplicate
+Skipping wohnungen-in-Hamburg-Harburg.6373108.html because it's a duplicate
+Skipping wohnungen-in-Hamburg-Farmsen-Berne.7882984.html because it's a duplicate
+Skipping wohnungen-in-Hamburg-Hammerbrook.7882900.html because it's a duplicate
+Skipping wohnungen-in-Hamburg-Borgfelde.7875846.html because it's a duplicate
+Skipping wohnungen-in-Hamburg-Wilhelmsburg.7882511.html because it's a duplicate
+Skipping wohnungen-in-Hamburg-Eimsbuttel-Stellingen.7881340.html because it's a duplicate
+Skipping wohnungen-in-Hamburg-Eidelstedt.7855293.html because it's a duplicate
+Skipping wohnungen-in-Hamburg-Rahlstedt.7880575.html because it's a duplicate
+Skipping wohnungen-in-Hamburg-Fuhlsbuttel.7876533.html because it's a duplicate
+Skipping wohnungen-in-Hamburg-Sternschanze.7879861.html because it's a duplicate
+Skipping wohnungen-in-Hamburg-Wandsbek.7709197.html because it's a duplicate
+Skipping wohnungen-in-Hamburg-Eimsbuttel.7876189.html because it's a duplicate
+Skipping wohnungen-in-Hamburg-Harburg.7876146.html because it's a duplicate
+Skipping wohnungen-in-Hamburg-Barmbek.7871240.html because it's a duplicate
+Skipping wohnungen-in-Hamburg-Hamburg.7869704.html because it's a duplicate
+There are 118 links in the list
+
+Flats to scrape: 118
+
+Done scraping https://www.immobilienscout24.de/expose/115270530
+Done scraping https://www.immobilienscout24.de/expose/105014772
+Done scraping https://www.immobilienscout24.de/expose/114731612
+Done scraping https://www.immobilienscout24.de/expose/101102339
+Done scraping https://www.immobilienscout24.de/expose/116031561
+Done scraping https://www.immobilienscout24.de/expose/115314060
+Done scraping https://www.immobilienscout24.de/expose/108982550
+Done scraping https://www.immobilienscout24.de/expose/116455717
+Done scraping https://www.immobilienscout24.de/expose/115298964
+Done scraping https://www.immobilienscout24.de/expose/107884355
+Done scraping https://www.immobilienscout24.de/expose/116366406
+Done scraping https://www.immobilienscout24.de/expose/114647086
+Done scraping https://www.immobilienscout24.de/expose/114998323
+Done scraping https://www.immobilienscout24.de/expose/116679500
+Done scraping https://www.immobilienscout24.de/expose/111087113
+Done scraping https://www.immobilienscout24.de/expose/108973901
+Done scraping https://www.immobilienscout24.de/expose/116647795
+Done scraping https://www.immobilienscout24.de/expose/114104558
+Done scraping https://www.immobilienscout24.de/expose/114006571
+Done scraping https://www.immobilienscout24.de/expose/115990531
+Done scraping https://www.immobilienscout24.de/expose/115613895
+Done scraping https://www.immobilienscout24.de/expose/116656080
+Done scraping https://www.immobilienscout24.de/expose/87740563
+Done scraping https://www.immobilienscout24.de/expose/116643820
+Done scraping https://www.immobilienscout24.de/expose/116422765
+Done scraping https://www.immobilienscout24.de/expose/115702996
+Done scraping https://www.immobilienscout24.de/expose/115696018
+Done scraping https://www.immobilienscout24.de/expose/115563203
+Done scraping https://www.immobilienscout24.de/expose/115695873
+Done scraping https://www.immobilienscout24.de/expose/115695683
+Done scraping https://www.immobilienscout24.de/expose/115695633
+Done scraping https://www.immobilienscout24.de/expose/115332312
+Done scraping https://www.immobilienscout24.de/expose/109287016
+Done scraping https://www.immobilienscout24.de/expose/107627058
+Done scraping https://www.immobilienscout24.de/expose/97270814
+Done scraping https://www.immobilienscout24.de/expose/114531512
+Done scraping https://www.immobilienscout24.de/expose/115306848
+Done scraping https://www.immobilienscout24.de/expose/115923706
+Done scraping https://www.immobilienscout24.de/expose/114982345
+Done scraping https://www.immobilienscout24.de/expose/115521119
+Done scraping https://www.immobilienscout24.de/expose/115521071
+Done scraping https://www.immobilienscout24.de/expose/114982333
+Done scraping https://www.immobilienscout24.de/expose/115307511
+Done scraping https://www.immobilienscout24.de/expose/115573908
+Done scraping https://www.immobilienscout24.de/expose/115675231
+Done scraping https://www.immobilienscout24.de/expose/78195176
+Done scraping https://www.immobilienscout24.de/expose/115919552
+Done scraping https://www.immobilienscout24.de/expose/116551937
+Done scraping https://www.immobilienscout24.de/expose/106034073
+Done scraping https://www.immobilienscout24.de/expose/115508423
+Done scraping https://www.immobilienscout24.de/expose/115028063
+Done scraping https://www.immobilienscout24.de/expose/116268941
+Done scraping https://www.immobilienscout24.de/expose/116490260
+Done scraping https://www.immobilienscout24.de/expose/83056660
+Done scraping https://www.immobilienscout24.de/expose/115579833
+Done scraping https://www.immobilienscout24.de/expose/115808431
+Done scraping https://www.immobilienscout24.de/expose/116330031
+Done scraping https://www.immobilienscout24.de/expose/115785649
+Done scraping https://www.immobilienscout24.de/expose/115652396
+Done scraping https://www.immobilienscout24.de/expose/50628231
+Done scraping https://www.immobilienscout24.de/expose/114414941
+Done scraping https://www.immobilienscout24.de/expose/72356863
+Done scraping https://www.immobilienscout24.de/expose/116142986
+Done scraping https://www.immobilienscout24.de/expose/116362411
+Done scraping https://www.immobilienscout24.de/expose/116296337
+Done scraping https://www.immobilienscout24.de/expose/74040407
+Done scraping https://www.immobilienscout24.de/expose/115403600
+Done scraping https://www.immobilienscout24.de/expose/115923203
+Done scraping https://www.immobilienscout24.de/expose/116115424
+Done scraping https://www.immobilienscout24.de/expose/103110932
+Done scraping https://www.immobilienscout24.de/expose/116240269
+Done scraping https://www.immobilienscout24.de/expose/115137673
+Done scraping https://www.immobilienscout24.de/expose/116448075
+Done scraping https://www.immobilienscout24.de/expose/116533576
+Done scraping https://www.immobilienscout24.de/expose/116412655
+Done scraping https://www.immobilienscout24.de/expose/116266335
+Done scraping https://www.immobilienscout24.de/expose/116079758
+Done scraping https://www.immobilienscout24.de/expose/115295238

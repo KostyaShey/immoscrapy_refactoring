@@ -1,0 +1,8 @@
+
+Scraping Page 1 from immobilienscout24
+Skipping https://www.immobilienscout24.de/neubau/bibo-stahlbetonbau-gmbh/mietneubauwohnung-in-hamburg/83754.html
+Scraping Page 2 from immobilienscout24
+Skipping https://www.immobilienscout24.de/neubau/baugenossenschaft-dennerstrasse-selbsthilfe-eg/neubauprojekt-in-hamburg-farmsen-berne/84900.html
+Scraping Page 3 from immobilienscout24
+Scraping Page 4 from immobilienscout24
+Scraping Page 0 from wg-gesucht.de

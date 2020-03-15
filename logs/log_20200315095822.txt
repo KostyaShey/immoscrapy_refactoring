@@ -1,0 +1,47 @@
+
+Scraping Page 1 from immobilienscout24
+Skipping https://www.immobilienscout24.de/neubau/bibo-stahlbetonbau-gmbh/mietneubauwohnung-in-hamburg/83754.html
+Scraping Page 2 from immobilienscout24
+Skipping https://www.immobilienscout24.de/neubau/baugenossenschaft-dennerstrasse-selbsthilfe-eg/neubauprojekt-in-hamburg-farmsen-berne/84900.html
+Scraping Page 3 from immobilienscout24
+Scraping Page 4 from immobilienscout24
+Scraping Page 5 from immobilienscout24
+Scraping Page 6 from immobilienscout24
+Scraping Page 7 from immobilienscout24
+Scraping Page 8 from immobilienscout24
+Scraping Page 9 from immobilienscout24
+Scraping Page 10 from immobilienscout24
+Skipping https://www.immobilienscout24.de/neubau/portus-immobilienverwaltung-gmbh/abc/89007.html
+Skipping https://www.immobilienscout24.de/neubau/f-w-foerdern-und-wohnen-aoer/quartier-an-der-mellingbek/70012.html
+Scraping Page 11 from immobilienscout24
+Scraping Page 12 from immobilienscout24
+Scraping Page 13 from immobilienscout24
+Scraping Page 14 from immobilienscout24
+Scraping Page 15 from immobilienscout24
+Scraping Page 16 from immobilienscout24
+Skipping https://www.immobilienscout24.de/neubau/becken-estates-gmbh/lahoma-linving-plaza/88176.html
+Scraping Page 17 from immobilienscout24
+Scraping Page 18 from immobilienscout24
+Scraping Page 19 from immobilienscout24
+Scraping Page 20 from immobilienscout24
+Scraping Page 21 from immobilienscout24
+Scraping Page 22 from immobilienscout24
+Scraping Page 23 from immobilienscout24
+Scraping Page 24 from immobilienscout24
+Scraping Page 25 from immobilienscout24
+Scraping Page 26 from immobilienscout24
+Scraping Page 27 from immobilienscout24
+Scraping Page 28 from immobilienscout24
+Scraping Page 29 from immobilienscout24
+Scraping Page 30 from immobilienscout24
+Scraping Page 31 from immobilienscout24
+Scraping Page 32 from immobilienscout24
+Scraping Page 33 from immobilienscout24
+Scraping Page 34 from immobilienscout24
+Scraping Page 35 from immobilienscout24
+Scraping Page 36 from immobilienscout24
+Scraping Page 37 from immobilienscout24
+Scraping Page 38 from immobilienscout24
+Scraping Page 39 from immobilienscout24
+Scraping Page 40 from immobilienscout24
+Scraping Page 41 from immobilienscout24
