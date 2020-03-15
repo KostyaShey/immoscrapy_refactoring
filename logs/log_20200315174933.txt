@@ -169,3 +169,35 @@ Scraping https://www.wg-gesucht.de/wohnungen-in-Hamburg-Eimsbuttel.7876189.html
 44
 Scraping https://www.wg-gesucht.de/wohnungen-in-Hamburg-Harburg.7876146.html
 43
+Scraping https://www.wg-gesucht.de/wohnungen-in-Hamburg-Barmbek.7871240.html
+44
+Scraping https://www.wg-gesucht.de/wohnungen-in-Hamburg-Hamburg.7869704.html
+44
+Scraping https://www.wg-gesucht.de/wohnungen-in-Hamburg-Hamburg-Stellingen.7870031.html
+44
+Scraping https://www.wg-gesucht.de/wohnungen-in-Hamburg-Bahrenfeld.7858784.html
+44
+Scraping https://www.wg-gesucht.de/wohnungen-in-Hamburg-Bahrenfeld.7820413.html
+44
+Scraping https://www.wg-gesucht.de/wohnungen-in-Hamburg-Hamm-Mitte.7845643.html
+44
+Scraping https://www.wg-gesucht.de/wohnungen-in-Hamburg-Farmsen.7655424.html
+44
+Scraping https://www.wg-gesucht.de/wohnungen-in-Hamburg-Alsterdorf.7852776.html
+44
+Scraping https://www.wg-gesucht.de/wohnungen-in-Hamburg-Altona-Altstadt.7856317.html
+44
+Scraping https://www.wg-gesucht.de/wohnungen-in-Hamburg-Kirchwerder.3596066.html
+43
+Scraping https://www.wg-gesucht.de/wohnungen-in-Hamburg-Neugraben-Fischbek.7239641.html
+44
+Scraping https://www.wg-gesucht.de/wohnungen-in-Hamburg-Eimsbuttel.7842881.html
+44
+Scraping https://www.wg-gesucht.de/wohnungen-in-Hamburg-Farmsen-Berne.4455045.html
+44
+Scraping https://www.wg-gesucht.de/wohnungen-in-Hamburg-Horn.7740018.html
+44
+Scraping https://www.wg-gesucht.de/wohnungen-in-Hamburg-Bergedorf.7836478.html
+43
+Scraping https://www.wg-gesucht.de/wohnungen-in-Hamburg-St-Pauli.7833255.html
+44

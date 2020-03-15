@@ -156,8 +156,6 @@ flatList = []
 with open(log_path, 'a') as f:
     f.write("Flats to scrape: " + str(len(linklist)) + "\n\n")
 
-# scraping flat data on immobilienscout24
-
 print("\nScraping the flat information \n")
 
 def getTitle(soup):
@@ -178,11 +176,14 @@ def getStringFromPath(tree, path):
         print(tree.xpath(path))
         return None
 
+
+
 for link in tqdm(linklist):
 
+    # scraping flat data from immobilienscout24
+
     if "immobilienscout24" in link:
-        continue
-        #accual code
+        #continue
         try:
             source = urllib.request.urlopen(link).read()
         except Exception as e:
@@ -209,7 +210,7 @@ for link in tqdm(linklist):
 
         flatList.append(flatInfo)
 
-# scraping flat data on wg-gesucht.de
+    # scraping flat data from wg-gesucht.de
 
     if "wg-gesucht.de" in link:
 
@@ -235,15 +236,28 @@ for link in tqdm(linklist):
         except Exception as e:
             print(e)"""
 
+        with open(log_path, 'a') as f:
+            f.write("Scraping " + link + "\n")
+            f.write(str(len(tree.find_class('row'))) + '\n')
+
+        #checking content in [@id="main_column"] and setting variable for adjusting the divs in xpath
         print(len(tree.find_class('row')))
         if len(tree.find_class('row')) >= 44:
             x = 0
         if len(tree.find_class('row')) == 43:
             x = 3
+        if len(tree.find_class('row')) < 42:
+            with open(log_path, 'a') as f:
+                f.write("Skipping " + link + " because wg-gesucht blocked the request")
+            continue
 
-        with open(log_path, 'a') as f:
-            f.write("Scraping " + link + "\n")
-            f.write(str(len(tree.find_class('row'))) + '\n')
+        #catching broken xpaths:
+        try:
+            street = tree.xpath('//*[@id="main_column"]/div[1]/div/div[{number}]/div[2]/a/text()[1]'.format(number = 11 - x))[0]
+        except:
+            with open(log_path, 'a') as f:
+                f.write("Skipping " + link + " because xpath is broken")
+            continue
 
         flatInfo = Flat(
             fullLink= link,
