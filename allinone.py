@@ -89,7 +89,6 @@ linklist = []
 print("\nScraping flats from immoscout\n")
 
 for num_page in tqdm(range(1, ims_pages + 1)):
-#for num_page in tqdm(range(1, 5)):
     with open(log_path, 'a') as f:
         f.write("Scraping Page {page} from immobilienscout24\n".format(page=num_page))
     source_immopage = urllib.request.urlopen(
@@ -124,7 +123,6 @@ wg_pages = int(wg_pages)
 #scraping links from each page 
 
 for i in tqdm(range(1, wg_pages+1)):
-#for i in tqdm(range(1, 2)):
 
     with open(log_path, 'a') as f:
         f.write("Scraping Page {page} from wg-gesucht.de\n".format(page=i))
@@ -288,12 +286,16 @@ def colorpicker(flat, priceDict):
 
 #calculate mean price for flats grouped by room number
 
+def getRoomNumber(flat):
+    return flat.rooms
+
 meanPricePerRoom = {}
 
 print(len(flatList))
 
+flatList.sort(key=getRoomNumber)
+
 for key, group in groupby(flatList, lambda x: x.rooms):
-    print(key)
     meanRooms = mean([x.price for x in group])
     meanPricePerRoom[key] = meanRooms
 
