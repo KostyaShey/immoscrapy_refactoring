@@ -220,18 +220,6 @@ for link in tqdm(linklist):
         tree = html.fromstring(source.content)
     
         #check if the flat is deactivated
-        """ todo: fix this shit later
-        try:
-            if getStringFromPath(tree, '//*[@id="main_column"]/div[2]/div/h4') == None:
-                pass
-            else:
-                if "deaktiviert" in getStringFromPath(tree, '//*[@id="main_column"]/div[2]/div/h4'):
-                    DEACTIVATED_FLATS += 1
-                    with open(log_path, 'a') as f:
-                        f.write("The flat is deactivated on wg_gesucht: " + link + "\n")
-                    continue
-        except Exception as e:
-            print(e)"""
 
         with open(log_path, 'a') as f:
             f.write("Scraping " + link + "\n")
@@ -291,15 +279,13 @@ def getRoomNumber(flat):
 
 meanPricePerRoom = {}
 
-print(len(flatList))
-
 flatList.sort(key=getRoomNumber)
 
 for key, group in groupby(flatList, lambda x: x.rooms):
     meanRooms = mean([x.price for x in group])
-    meanPricePerRoom[key] = meanRooms
-
-print(meanPricePerRoom)
+    meanPricePerRoom[key] = int(meanRooms)
+    with open(log_path, 'a') as f:
+        f.write("Flats with " + str(key) + " rooms have the mean price of " + str(meanRooms) + "\n")
 
 #building a map
 
@@ -307,14 +293,14 @@ map = folium.Map(location=[53.57532,10.01534], zoom_start = 12)
 
 for flat in flatList:
 
+    if flat.longt == None:
+        print("coordinates missing. skipping the marker.")
+        continue
+    
     popuptext = "<b>" + flat.title + "</b></br>"\
         + str(flat.price) + " € (avg. " + str(meanPricePerRoom[flat.rooms]) + " €) </br>"\
             + str(flat.rooms) + " Zimmer, " + str(flat.sqm) + " m²</br>" + '<a href="{url}" target="_blank">'.format(url = flat.fullLink) + flat.fullLink + "</a>"
 
-    if flat.longt == None:
-        print("coordinates missing. skipping the marker.")
-        continue
-
     folium.Marker([flat.lat, flat.longt], popup=popuptext, icon=folium.Icon(color=colorpicker(flat, meanPricePerRoom))).add_to(map)
 
-map.save("map1.html")
+map.save("immoscrapy_{timestamp}.html".format(timestamp=timestamp))
